@@ -1,0 +1,51 @@
+---
+title: "What Is HTTPS and Why Does It Matter?"
+description: "HTTPS encrypts the connection between your browser and a website. Here is what that means, what the padlock icon actually tells you, and when it matters most."
+date: "2026-03-31"
+author: "Mango Oasis Editorial"
+---
+
+HTTPS stands for HyperText Transfer Protocol Secure. It is the encrypted version of HTTP, the protocol your browser uses to communicate with websites. When a site uses HTTPS, the data traveling between your browser and that site is encrypted — meaning anyone intercepting it sees scrambled text, not readable content.
+
+You can tell a site uses HTTPS by looking at the address bar. The URL will start with `https://`, and most browsers show a padlock icon.
+
+## What HTTPS Actually Protects
+
+HTTPS protects data in transit — specifically, between your device and the website's server. That includes:
+
+- Login credentials when you submit a username and password
+- Payment information entered on checkout forms
+- The content of pages you view (on a public Wi-Fi network, without HTTPS, others on the network could see which pages you are reading)
+- Form submissions of any kind
+
+If a site uses plain HTTP instead of HTTPS, anyone on the same network as you can potentially read that traffic. On home networks this is rarely a practical threat. On public Wi-Fi, it is a real one.
+
+## What the Padlock Icon Does Not Mean
+
+This is the part most people misunderstand. The padlock means the connection is encrypted. It does not mean:
+
+- The website is trustworthy or legitimate
+- The website is who it claims to be (beyond basic certificate verification)
+- Your data is safe once it reaches the server
+
+Phishing sites and scam websites routinely use HTTPS. The padlock just means your connection to that fraudulent site is encrypted. The scam is still a scam.
+
+## How HTTPS Works
+
+HTTPS uses a system called TLS (Transport Layer Security) to encrypt the connection. When you visit an HTTPS site, your browser and the server go through a brief negotiation — called a handshake — to establish an encrypted channel. This involves:
+
+1. The server presenting a certificate that confirms its identity
+2. Your browser verifying that certificate against trusted authorities
+3. Both sides agreeing on encryption keys for the session
+
+This happens in milliseconds and is invisible to you. The certificate is issued by a Certificate Authority (CA) — an organization that verifies domain ownership before issuing it.
+
+## Should Every Website Use HTTPS?
+
+Yes, and most now do. Even sites that do not handle sensitive data benefit from HTTPS because search engines factor it into rankings, browsers flag HTTP sites as "Not secure," and it protects users on shared networks from having their browsing activity observed.
+
+Free certificates are widely available through services like Let's Encrypt, so there is no cost barrier for site owners.
+
+## Summary
+
+HTTPS encrypts the connection between your browser and a website, protecting data like passwords and payment info from being intercepted in transit. The padlock icon confirms encryption but not trustworthiness — scam sites can and do use HTTPS. For related reading, see [what a VPN does](/blog/what-is-a-vpn/) and [what DNS is](/blog/what-is-dns/).

@@ -1,0 +1,46 @@
+---
+title: "What Is an API? A Plain-English Explanation"
+description: "An API lets two pieces of software talk to each other. Here is what that means, with real examples that do not require a programming background to understand."
+date: "2026-03-31"
+author: "Mango Oasis Editorial"
+---
+
+API stands for Application Programming Interface. It is a way for two pieces of software to communicate with each other — one requests something, the other responds. You use APIs constantly without realizing it, because they work in the background of nearly every app and website.
+
+The classic analogy: an API is like a waiter in a restaurant. You (the app) tell the waiter (the API) what you want. The waiter takes that to the kitchen (another service), and brings back what was prepared. You never go into the kitchen yourself.
+
+## A Concrete Example
+
+When you open a weather app on your phone, the app does not have its own team of meteorologists. It sends a request to a weather service's API: "Give me the current conditions for this location." The weather service responds with data. The app displays it.
+
+Same thing when you log into a website using your Google account. That site is calling Google's authentication API to verify your identity — your password never goes to that third-party site at all.
+
+Other everyday examples:
+- Booking a flight on a travel site (calls airline APIs for availability and pricing)
+- Embedded maps on websites (Google Maps API)
+- Payment processing at checkout (Stripe, PayPal APIs)
+- Social sharing buttons (platform APIs)
+
+## Why APIs Exist
+
+APIs let developers build on top of existing services instead of rebuilding everything from scratch. They also let different systems — written in different programming languages, running on different servers — communicate through a standardized interface.
+
+For businesses, exposing an API means other developers can build products that integrate with their platform. Twitter's API let third-party apps display tweets. Shopify's API lets external tools manage store inventory. The API becomes a distribution channel.
+
+## Public vs. Private APIs
+
+**Public APIs** are available to any developer, sometimes free, sometimes with a usage fee. The Google Maps API, the OpenWeather API, and most social media APIs are public.
+
+**Private APIs** are internal to a company — the interfaces different parts of their own software use to talk to each other. You never interact with these directly, but they are how large applications stay modular.
+
+**Partner APIs** are shared with specific partners under agreements, not the general public.
+
+## What "Calling an API" Means
+
+When software "calls" an API, it sends a structured request to a specific web address (called an endpoint) with any required parameters. The API processes the request and returns a response — usually data in a format called JSON, which is just structured text both machines and humans can read.
+
+You do not need to understand the code to grasp what is happening: software A asks software B a specific question in a specific format, and software B answers.
+
+## Summary
+
+An API is a defined way for software to request information or actions from another piece of software. It powers the integrations between apps you use every day — maps, payments, logins, weather data. APIs exist because rebuilding every capability from scratch would be impractical. For related reading, see [what the cloud is](/blog/what-is-the-cloud/) and [what HTTPS is](/blog/what-is-https/).

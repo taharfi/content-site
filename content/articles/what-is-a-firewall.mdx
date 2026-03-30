@@ -1,0 +1,54 @@
+---
+title: "What Is a Firewall and What Does It Protect Against?"
+description: "A firewall monitors and filters network traffic based on rules. Here is what that means, the difference between hardware and software firewalls, and what they cannot do."
+date: "2026-03-31"
+author: "Mango Oasis Editorial"
+---
+
+A firewall is a security system that monitors network traffic and decides what to allow through and what to block, based on a set of rules. It sits between a trusted network (your computer or home network) and an untrusted one (the internet), acting as a filter.
+
+The name comes from construction: a firewall is a physical barrier designed to stop fire from spreading between sections of a building. In networking, it stops unwanted traffic from reaching your system.
+
+## What a Firewall Actually Does
+
+Every connection your device makes or receives involves sending data packets — small units of information with a source, destination, and content. A firewall inspects these packets and applies rules:
+
+- Allow this traffic (a browser requesting a web page)
+- Block this traffic (an incoming connection attempt on a port you do not use)
+- Log this traffic for review
+
+Rules can be based on IP addresses, ports, protocols, or more sophisticated criteria. A basic rule might say: "Block all incoming traffic except on ports 80 and 443" (the standard ports for web browsing).
+
+## Hardware vs. Software Firewalls
+
+**Software firewalls** run on your device. Windows includes one by default (Windows Defender Firewall); macOS has one built in as well. These monitor traffic coming into and going out of that specific machine.
+
+**Hardware firewalls** are dedicated devices, most commonly your home router. Routers perform basic firewall functions by default — they use a technique called Network Address Translation (NAT) that effectively hides your devices from unsolicited incoming connections.
+
+Enterprise environments use dedicated hardware firewall appliances that offer far more sophisticated rule management and logging.
+
+Most people are protected by both: the router filtering incoming traffic at the network level, and the OS-level firewall providing a second layer on the device.
+
+## What Firewalls Cannot Do
+
+Firewalls are one layer of security, not a complete solution:
+
+- **They cannot stop malware you download voluntarily.** If you download an infected file and run it, the firewall has no grounds to block it — you requested it.
+- **They cannot inspect encrypted traffic.** Basic firewalls see that a connection is happening but not what is in it if it is encrypted (which most web traffic is).
+- **They cannot prevent phishing.** A firewall does not know whether the website you are visiting is fraudulent.
+- **They do not replace antivirus software.** Firewalls control traffic; antivirus software scans files and programs.
+
+## When Firewall Settings Matter to You
+
+Most users never need to manually configure a firewall. The defaults provided by your router and operating system are appropriate for typical home use.
+
+You might need to adjust firewall settings if:
+- You run a local server and need to open specific ports
+- An application is not connecting and you suspect the firewall is blocking it
+- You are on a corporate network with restrictive rules
+
+If you see a prompt asking whether to allow an application through your firewall, it is generally safe to allow apps you intentionally installed and distrust anything you did not.
+
+## Summary
+
+A firewall filters network traffic based on rules, blocking connections that do not meet your security criteria. Your router and operating system both provide firewall protection by default. Firewalls are an important layer of defense but cannot stop threats that arrive as deliberate user actions, like downloading malware or clicking phishing links. For more on security basics, see [what two-factor authentication is](/blog/what-is-two-factor-authentication/) and [what a VPN does](/blog/what-is-a-vpn/).

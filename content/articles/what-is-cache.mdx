@@ -1,0 +1,47 @@
+---
+title: "What Is Cache and Why Do People Say to Clear It?"
+description: "Cache is stored data that helps things load faster. Here is what it actually is, why clearing it fixes problems, and when you should bother."
+date: "2026-03-31"
+author: "Mango Oasis Editorial"
+---
+
+Cache (pronounced "cash") is a collection of stored data that a system saves so it can load faster next time. Instead of fetching the same information repeatedly, the system keeps a local copy and retrieves that instead. The trade-off: the cached version might be out of date.
+
+You encounter cache in web browsers, apps, operating systems, and servers — it is one of the most common performance techniques in computing.
+
+## Browser Cache: The Most Common Type
+
+When you visit a website, your browser downloads files: images, stylesheets, scripts, fonts. These files do not change often. So instead of downloading them fresh on every visit, your browser saves copies in a local cache folder. The next time you visit, the cached files load instantly from your hard drive rather than being fetched over the network.
+
+This makes websites load noticeably faster for repeat visitors. For site owners, it reduces bandwidth costs. For everyone, it makes the experience feel snappier.
+
+## Why Clearing Cache Fixes Problems
+
+Cached data can become stale. The most common scenario: a website updates its design or content, but your browser keeps showing the old cached version. You see an outdated layout, or a bug that the developer has already fixed.
+
+Clearing the cache forces your browser to download fresh copies of everything. This is why "try clearing your cache" is such common troubleshooting advice — it eliminates the possibility that you are looking at outdated stored data.
+
+Other problems clearing cache can fix:
+- A website is not loading correctly
+- You are seeing a page you should no longer have access to
+- A recently changed image or file is still showing the old version
+
+## What You Lose When You Clear Cache
+
+Clearing browser cache does not delete passwords, bookmarks, or browsing history (unless you specifically clear those too). You will be logged out of sites that use session cookies, and pages may load slightly slower on first visit while the cache rebuilds. That is it.
+
+## Other Types of Cache
+
+**DNS cache:** Your computer stores recent DNS lookups so it does not have to query a DNS server for every visit to a site you recently visited. Flushing the DNS cache (a separate action from clearing browser cache) can fix issues where a domain is not resolving correctly after a change.
+
+**App cache:** Mobile apps store data locally to reduce loading times. Clearing an app's cache on Android or iOS can fix performance issues without deleting your account data.
+
+**Server-side cache:** Web servers cache pages and database queries so they can serve many requests without repeatedly doing expensive work. When a site shows outdated content even after you clear your browser cache, the problem may be a server-side cache the site owner needs to clear.
+
+## When You Do Not Need to Clear Cache
+
+Cache does not need regular manual clearing. Browsers automatically manage cache size, deleting older files when space is needed. Clear it when you are troubleshooting a problem, not on a schedule.
+
+## Summary
+
+Cache is stored data that speeds up repeat access by avoiding redundant downloads or lookups. Browser cache helps pages load faster but can show outdated content when sites change. Clearing it is a common fix for display problems and does not delete passwords or browsing history. For related reading, see [what DNS is](/blog/what-is-dns/) and [what cookies are](/blog/what-is-a-cookie/).

@@ -1,0 +1,44 @@
+---
+title: "What Is DNS and How Does It Work?"
+description: "DNS is the system that turns website names into addresses your computer can use. Here is how it works, in plain English."
+date: "2026-03-31"
+author: "Mango Oasis Editorial"
+---
+
+Every website has a numerical address called an IP address — something like `142.250.80.46`. DNS, which stands for Domain Name System, is the system that lets you type `google.com` instead of memorizing that number. It translates human-readable names into the numerical addresses computers actually use.
+
+## The Phone Book Analogy (and Why It Falls Short)
+
+DNS is often compared to a phone book: you look up a name and get a number. That is roughly right, but DNS is faster, more distributed, and more automated than any phone book. When you type a web address, your computer consults DNS in milliseconds — usually without you noticing.
+
+The more accurate picture: DNS is a global network of servers that all hold pieces of a massive, constantly updated directory. No single server holds all of it.
+
+## What Happens When You Visit a Website
+
+Here is the sequence when you type a domain name into your browser:
+
+1. Your computer checks its local cache. If it has looked up this domain recently, it already knows the answer and skips the rest.
+2. If not, it asks your DNS resolver — usually provided by your internet provider, though you can change this.
+3. The resolver asks a root nameserver where to find information about `.com` (or `.org`, `.net`, etc.).
+4. The root server points to a TLD nameserver — the one responsible for `.com` domains.
+5. That server points to the authoritative nameserver for the specific domain.
+6. The authoritative nameserver returns the IP address.
+7. Your browser connects to that IP address and loads the page.
+
+This entire process typically takes under 100 milliseconds.
+
+## Why DNS Settings Matter
+
+Most people use the DNS servers their internet provider assigns automatically. But you can change them. Common alternatives include Google's DNS (`8.8.8.8`) and Cloudflare's (`1.1.1.1`). Reasons to switch:
+
+- **Speed:** Some DNS providers resolve queries faster than your ISP's default.
+- **Privacy:** Your DNS provider can see every domain you look up. Some providers log this; others do not.
+- **Reliability:** If your ISP's DNS goes down, switching to a public DNS server can restore access.
+
+## What a DNS Failure Looks Like
+
+If DNS stops working, you lose the ability to reach websites by name — even if your internet connection itself is fine. You might see errors like "Server not found" or "DNS_PROBE_FINISHED_NXDOMAIN." Restarting your router or switching DNS servers often fixes this.
+
+## Summary
+
+DNS is the system that converts domain names into IP addresses, making the web navigable without memorizing numbers. It works through a chain of servers that each point closer to the answer. You can change your DNS provider for speed, privacy, or reliability reasons. For a related explainer, see [what an IP address is](/blog/what-is-an-ip-address/).
