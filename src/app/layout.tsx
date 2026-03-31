@@ -10,6 +10,7 @@ export const metadata: Metadata = {
   },
   description: "Plain-English explanations of tech and internet terms — no jargon, no fluff.",
   metadataBase: new URL("https://mangoasis.me"),
+  icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },
   openGraph: {
     siteName: "Mango Oasis",
     type: "website",
