@@ -1,0 +1,56 @@
+---
+title: "What Is a Web Browser and How Does It Work?"
+description: "A browser retrieves and displays web pages. Here is what happens between typing a URL and seeing a page, and what differences between browsers actually matter."
+date: "2026-03-31"
+author: "Mango Oasis Editorial"
+---
+
+A web browser is software that retrieves content from the internet and displays it on your screen. Chrome, Firefox, Safari, and Edge are the major ones. When you type a web address or click a link, the browser does the work of fetching and rendering the page.
+
+The browser is the layer between you and the web — and understanding what it does helps you understand why things sometimes go wrong.
+
+## What Happens When You Type a URL
+
+The sequence from address bar to loaded page involves several steps:
+
+1. **DNS lookup:** The browser needs to find the IP address of the domain you typed. It checks its cache first, then queries a [DNS server](/blog/what-is-dns/) if needed.
+2. **Connection:** The browser connects to the web server at that IP address, typically over [HTTPS](/blog/what-is-https/), which involves a brief encryption handshake.
+3. **Request:** The browser sends an HTTP request asking for the page.
+4. **Response:** The server sends back the HTML file for that page.
+5. **Parsing:** The browser reads the HTML and identifies additional resources it needs — CSS stylesheets, JavaScript files, images, fonts.
+6. **Rendering:** The browser assembles all the resources into the visual page you see, calculating layout and applying styles.
+
+This entire process typically takes one to three seconds for a standard page.
+
+## The Browser Engine
+
+The core of every browser is its rendering engine — the software that parses HTML and CSS and converts them into a visual layout. Major rendering engines:
+
+- **Blink:** Used by Chrome, Edge, Opera, Brave, and most non-Safari browsers. Developed by Google.
+- **WebKit:** Used by Safari. The original engine Blink was forked from.
+- **Gecko:** Used by Firefox. Developed by Mozilla.
+
+Because most browsers use Blink, the web has effectively converged on one rendering standard, which is convenient for developers but raises concerns about a single company's influence over web standards.
+
+## Browser vs. Search Engine
+
+These are different things that are often confused:
+
+- A **browser** is the software you use to navigate the web (Chrome, Firefox, Safari)
+- A **search engine** is a website that indexes the web and returns results (Google, Bing, DuckDuckGo)
+
+You use a browser to visit a search engine. You can use any browser with any search engine. Chrome defaults to Google, but you can change it.
+
+## What Browser Extensions Do
+
+Extensions (also called add-ons or plugins) are small programs that add functionality to your browser. Common uses: ad blocking, password management, grammar checking, dark mode for all sites.
+
+Extensions have significant access to your browsing activity — a poorly written or malicious extension can read everything you do online. Install extensions only from official browser stores and only when you trust the developer.
+
+## Private / Incognito Mode
+
+Private browsing mode prevents your browser from saving your history, cookies, and form data after the session ends. It does not make you anonymous online — websites, your ISP, and network administrators can still see your traffic. It is primarily useful for keeping activity off a shared device.
+
+## Summary
+
+A browser retrieves web pages by resolving domain names, connecting to servers, and rendering HTML and CSS into a visual interface. The browser and the search engine are separate things. Extensions extend functionality but require trust. Private mode prevents local history storage — not online anonymity. For related reading, see [what DNS is](/blog/what-is-dns/) and [what cache is](/blog/what-is-cache/).

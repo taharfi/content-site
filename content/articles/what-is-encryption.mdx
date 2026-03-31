@@ -1,0 +1,49 @@
+---
+title: "What Is Encryption and How Does It Protect Your Data?"
+description: "Encryption scrambles data so only authorized parties can read it. Here is how it works, where you already use it, and what it cannot protect against."
+date: "2026-03-31"
+author: "Mango Oasis Editorial"
+---
+
+Encryption is the process of converting readable data into a scrambled format that can only be decoded by someone with the correct key. Without the key, the scrambled data — called ciphertext — is meaningless to anyone who intercepts it.
+
+You use encryption constantly, mostly without realizing it. Every time you see `https://` in your browser, every time you send a message on WhatsApp, every time you make a payment online — encryption is working in the background.
+
+## The Basic Idea: Keys
+
+Encryption relies on mathematical keys — essentially very large numbers used in algorithms to scramble and unscramble data.
+
+**Symmetric encryption** uses the same key to encrypt and decrypt. Fast and efficient, used for encrypting large amounts of data (like files on your hard drive). The challenge: both parties need the same key, so it must be shared securely first.
+
+**Asymmetric encryption** uses a pair of keys — a public key and a private key. Anything encrypted with the public key can only be decrypted with the private key. This solves the sharing problem: you can publish your public key openly. Only you have the private key. Used in HTTPS, email encryption, and digital signatures.
+
+In practice, most systems use both: asymmetric encryption to securely exchange a symmetric key, then symmetric encryption for the actual data.
+
+## Where You Already Use Encryption
+
+**HTTPS:** Every website with a padlock icon uses TLS encryption to protect data between your browser and the server. Passwords, payment details, and form submissions are encrypted in transit. See [what HTTPS is](/blog/what-is-https/) for more detail.
+
+**Messaging apps:** WhatsApp, Signal, and iMessage use end-to-end encryption, meaning only the sender and recipient can read messages — not the app company, not internet providers, not anyone in between.
+
+**Device storage:** iPhones encrypt all stored data by default. Android does as well on modern versions. Windows offers BitLocker. This means if someone steals your device, they cannot read your files without your password or PIN.
+
+**Password managers:** Your stored passwords are encrypted with a master password. The service itself cannot read them.
+
+## What Encryption Cannot Do
+
+Encryption protects data in transit and at rest. It does not protect you from:
+
+- **Giving your password to a phishing site.** The data was decrypted before it left your device.
+- **Malware on your device.** Encryption happens at the transport layer; malware operates above it.
+- **The other end being compromised.** If the server you are communicating with is breached, the data is exposed after decryption.
+- **Weak passwords.** Encryption is only as strong as the key protecting it.
+
+## End-to-End Encryption
+
+End-to-end encryption (E2EE) means data is encrypted on your device and only decrypted on the recipient's device. Nobody in the middle — including the service provider — can read it. This is why Signal cannot hand over message contents to law enforcement even if legally compelled: they genuinely do not have it.
+
+Not all "encrypted" messaging is end-to-end. Standard email, for example, is typically encrypted in transit but readable by the email provider.
+
+## Summary
+
+Encryption converts data into unreadable ciphertext using mathematical keys, protecting it from interception. You use it every time you browse HTTPS sites, use encrypted messaging apps, or store data on a modern phone. It protects data in transit and at rest — but not from malware, phishing, or weak passwords. For related reading, see [what HTTPS is](/blog/what-is-https/) and [what a VPN does](/blog/what-is-a-vpn/).
