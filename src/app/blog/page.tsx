@@ -13,15 +13,19 @@ export default function Blog() {
 
   return (
     <>
-      <h1 className="text-3xl font-bold mb-2">All Articles</h1>
-      <p className="text-gray-600 mb-8">
-        Plain-English explainers for tech and internet terms — written for real people, not engineers.
-      </p>
+      <div className="mb-10">
+        <h1 className="text-3xl font-extrabold text-slate-900 mb-3">All Articles</h1>
+        <p className="text-slate-500">
+          Plain-English explainers for tech and internet terms — {articles.length} articles and counting.
+        </p>
+      </div>
 
       {articles.length > 0 ? (
-        articles.map((a) => <ArticleCard key={a.slug} {...a} />)
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+          {articles.map((a) => <ArticleCard key={a.slug} {...a} />)}
+        </div>
       ) : (
-        <p className="text-gray-500 py-10">No articles published yet. Check back soon.</p>
+        <p className="text-slate-500 py-10">No articles published yet. Check back soon.</p>
       )}
     </>
   );
