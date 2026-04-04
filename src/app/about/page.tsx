@@ -22,6 +22,10 @@ export default function About() {
         a reader came to ask. We do not accept sponsored content, and we do not fabricate reviews
         or testimonials. If we have not verified something, we say so.
       </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        To help support the site, we may display ads and clearly labeled affiliate links. Those
+        links do not change what we write, and any material relationship is disclosed on the page.
+      </p>
 
       <h2 className="text-xl font-semibold mt-8 mb-3">What We Cover</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -36,6 +40,7 @@ export default function About() {
         <li>Sources are cited when claims are based on data or third-party research.</li>
         <li>Articles are updated when information changes.</li>
         <li>We disclose any material relationships with companies we mention.</li>
+        <li>Affiliate links are labeled so readers can distinguish them from editorial content.</li>
       </ul>
 
       <p className="text-gray-700 leading-relaxed mt-6">

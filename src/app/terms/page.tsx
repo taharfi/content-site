@@ -43,8 +43,9 @@ export default function Terms() {
         <h2 className="text-xl font-semibold mb-3">4. Advertising</h2>
         <p className="text-gray-700 leading-relaxed">
           This Site displays advertisements served by Google AdSense and potentially other
-          ad networks. Advertisements are clearly distinguished from editorial content.
-          We do not endorse the products or services advertised.
+          ad networks, and may also include clearly labeled affiliate links. Advertising and
+          affiliate placements are distinguished from editorial content. We do not guarantee or
+          endorse third-party products or services unless explicitly stated.
         </p>
       </section>
 

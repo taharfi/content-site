@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getAllArticles, getArticleBySlug } from "@/lib/articles";
 import { MDXRemote } from "next-mdx-remote/rsc";
+import AffiliateWidget from "@/components/AffiliateWidget";
 
 export async function generateStaticParams() {
   return getAllArticles().map((a) => ({ slug: a.slug }));
@@ -28,6 +29,8 @@ export default function ArticlePage({ params }: { params: { slug: string } }) {
 
   return (
     <div className="max-w-2xl mx-auto">
+      <AffiliateWidget slug={article.slug} articleTitle={article.title} />
+
       {/* Back link */}
       <Link
         href="/blog/"

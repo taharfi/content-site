@@ -65,14 +65,23 @@ export default function Privacy() {
       <section className="mb-8">
         <h2 className="text-xl font-semibold mb-3">5. Third-Party Services</h2>
         <p className="text-gray-700 leading-relaxed">
-          We may use third-party tools such as Google Analytics. These services have their own
-          privacy policies governing data use. We do not sell your personal information to any
-          third party.
+          We may use third-party tools such as Google Analytics and Amazon affiliate links. These
+          services have their own privacy policies governing data use. We do not sell your personal
+          information to any third party.
         </p>
       </section>
 
       <section className="mb-8">
-        <h2 className="text-xl font-semibold mb-3">6. Data Retention</h2>
+        <h2 className="text-xl font-semibold mb-3">6. Affiliate Links</h2>
+        <p className="text-gray-700 leading-relaxed">
+          Some pages may include clearly labeled Amazon affiliate links. If you click one of those
+          links and make a qualifying purchase, we may earn a commission at no additional cost to
+          you.
+        </p>
+      </section>
+
+      <section className="mb-8">
+        <h2 className="text-xl font-semibold mb-3">7. Data Retention</h2>
         <p className="text-gray-700 leading-relaxed">
           Contact form submissions are retained only as long as necessary to respond to your
           inquiry. Analytics data is retained per the policy of the analytics provider used.
@@ -80,7 +89,7 @@ export default function Privacy() {
       </section>
 
       <section className="mb-8">
-        <h2 className="text-xl font-semibold mb-3">7. Your Rights</h2>
+        <h2 className="text-xl font-semibold mb-3">8. Your Rights</h2>
         <p className="text-gray-700 leading-relaxed">
           Depending on your location, you may have rights to access, correct, or delete personal
           data we hold about you. To exercise these rights, contact us at hello@mangoasis.me.
@@ -88,7 +97,7 @@ export default function Privacy() {
       </section>
 
       <section>
-        <h2 className="text-xl font-semibold mb-3">8. Contact</h2>
+        <h2 className="text-xl font-semibold mb-3">9. Contact</h2>
         <p className="text-gray-700 leading-relaxed">
           If you have questions about this policy, email us at{" "}
           <a href="mailto:hello@mangoasis.me" className="text-blue-600 hover:underline">
