@@ -5,7 +5,25 @@ type AffiliateWidgetProps = {
 
 const AMAZON_TAG = "mangoasis10-20";
 
+const TOPIC_LABELS: Record<string, string> = {
+  "what-is-a-vpn": "VPN",
+  "what-is-an-api": "API",
+  "what-is-dns": "DNS",
+  "what-is-https": "HTTPS",
+  "what-is-wi-fi": "Wi-Fi",
+  "what-is-an-ip-address": "IP address",
+  "what-is-ram": "RAM",
+  "what-is-an-ssd": "SSD",
+  "what-is-a-cdn": "CDN",
+  "what-is-an-ssid": "SSID",
+  "what-is-a-mac-address": "MAC address",
+};
+
 function titleCaseFromSlug(slug: string) {
+  if (TOPIC_LABELS[slug]) {
+    return TOPIC_LABELS[slug];
+  }
+
   return slug
     .replace(/^what-is-(an?|the)-/, "")
     .replace(/^what-is-/, "")

@@ -21,6 +21,19 @@ export default function Contact() {
       <p className="text-gray-600 mb-8">
         Have a question, correction, or feedback? Fill out the form below and we will get back to you.
       </p>
+      <div className="mb-8 rounded-xl border border-slate-200 bg-slate-50 p-4 text-sm text-slate-600">
+        <p className="font-medium text-slate-900">Prefer email?</p>
+        <p className="mt-1">
+          You can also reach us directly at{" "}
+          <a href="mailto:hello@mangoasis.me" className="text-blue-600 hover:underline">
+            hello@mangoasis.me
+          </a>
+          .
+        </p>
+        <p className="mt-2 text-xs text-slate-500">
+          If the form button opens your email app, that is expected. It uses your default mail client.
+        </p>
+      </div>
 
       {submitted ? (
         <p className="bg-green-50 border border-green-200 text-green-800 rounded p-4">
