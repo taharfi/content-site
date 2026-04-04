@@ -10,7 +10,7 @@ export default function Privacy() {
   return (
     <div className="max-w-2xl prose prose-gray">
       <h1 className="text-3xl font-bold mb-2">Privacy Policy</h1>
-      <p className="text-sm text-gray-400 mb-8">Last updated: March 2025</p>
+      <p className="text-sm text-gray-400 mb-8">Last updated: April 4, 2026</p>
 
       <section className="mb-8">
         <h2 className="text-xl font-semibold mb-3">1. Information We Collect</h2>

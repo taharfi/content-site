@@ -25,6 +25,12 @@ export default function About() {
       <p className="text-gray-700 leading-relaxed mb-4">
         To help support the site, we may display ads and clearly labeled affiliate links. Those
         links do not change what we write, and any material relationship is disclosed on the page.
+        You can also read our full affiliate disclosure policy.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <Link href="/affiliate-disclosure/" className="text-blue-600 hover:underline">
+          Read the affiliate disclosure
+        </Link>
       </p>
 
       <h2 className="text-xl font-semibold mt-8 mb-3">What We Cover</h2>

@@ -19,6 +19,7 @@ export default function Footer() {
               <li><Link href="/blog/" className="hover:text-indigo-600 transition-colors">Articles</Link></li>
               <li><Link href="/about/" className="hover:text-indigo-600 transition-colors">About</Link></li>
               <li><Link href="/contact/" className="hover:text-indigo-600 transition-colors">Contact</Link></li>
+              <li><Link href="/affiliate-disclosure/" className="hover:text-indigo-600 transition-colors">Affiliate Disclosure</Link></li>
               <li><Link href="/privacy/" className="hover:text-indigo-600 transition-colors">Privacy Policy</Link></li>
               <li><Link href="/terms/" className="hover:text-indigo-600 transition-colors">Terms of Use</Link></li>
             </ul>
