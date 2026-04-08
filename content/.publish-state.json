@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-04-07",
+  "lastPublishedDate": "2026-04-08",
   "publishedFiles": [
-    "what-is-bounce-rate.mdx",
-    "what-is-broadband.mdx",
-    "what-is-broken-link.mdx",
-    "what-is-browser-cache.mdx",
-    "what-is-browser-extension.mdx",
-    "what-is-browser-fingerprint.mdx",
-    "what-is-browsing-history.mdx",
-    "what-is-brute-force-attack.mdx",
-    "what-is-business-email-compromise.mdx",
-    "what-is-cache-busting.mdx"
+    "what-is-cache-clear.mdx",
+    "what-is-camera-permission.mdx",
+    "what-is-canonical-url.mdx",
+    "what-is-captcha.mdx",
+    "what-is-captive-portal.mdx",
+    "what-is-carrier-grade-nat.mdx",
+    "what-is-cdn-cache.mdx",
+    "what-is-certificate-authority.mdx",
+    "what-is-charger-wattage.mdx",
+    "what-is-clipboard-access.mdx"
   ]
 }
