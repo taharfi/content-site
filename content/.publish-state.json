@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-04-08",
+  "lastPublishedDate": "2026-04-09",
   "publishedFiles": [
-    "what-is-cache-clear.mdx",
-    "what-is-camera-permission.mdx",
-    "what-is-canonical-url.mdx",
-    "what-is-captcha.mdx",
-    "what-is-captive-portal.mdx",
-    "what-is-carrier-grade-nat.mdx",
-    "what-is-cdn-cache.mdx",
-    "what-is-certificate-authority.mdx",
-    "what-is-charger-wattage.mdx",
-    "what-is-clipboard-access.mdx"
+    "what-is-cloud-backup.mdx",
+    "what-is-cloud-computing-cost.mdx",
+    "what-is-cloud-migration.mdx",
+    "what-is-cloud-storage.mdx",
+    "what-is-cloud-sync.mdx",
+    "what-is-command-line.mdx",
+    "what-is-compatibility.mdx",
+    "what-is-consent-banner.mdx",
+    "what-is-consent-management.mdx",
+    "what-is-container.mdx"
   ]
 }
