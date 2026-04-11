@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-04-10",
+  "lastPublishedDate": "2026-04-11",
   "publishedFiles": [
-    "what-is-content-management-system.mdx",
-    "what-is-cookie-banner.mdx",
-    "what-is-cookie-consent.mdx",
-    "what-is-cookie-settings.mdx",
-    "what-is-cooling-system.mdx",
-    "what-is-cpu.mdx",
-    "what-is-crash-report.mdx",
-    "what-is-credential-stuffing.mdx",
-    "what-is-css.mdx",
-    "what-is-data-broker.mdx"
+    "what-is-data-center.mdx",
+    "what-is-data-encryption-at-rest.mdx",
+    "what-is-data-exfiltration.mdx",
+    "what-is-data-minimization.mdx",
+    "what-is-data-privacy.mdx",
+    "what-is-data-retention.mdx",
+    "what-is-database.mdx",
+    "what-is-dedicated-server.mdx",
+    "what-is-default-app.mdx",
+    "what-is-dependency.mdx"
   ]
 }
