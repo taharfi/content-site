@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-04-11",
+  "lastPublishedDate": "2026-04-12",
   "publishedFiles": [
-    "what-is-data-center.mdx",
-    "what-is-data-encryption-at-rest.mdx",
-    "what-is-data-exfiltration.mdx",
-    "what-is-data-minimization.mdx",
-    "what-is-data-privacy.mdx",
-    "what-is-data-retention.mdx",
-    "what-is-database.mdx",
-    "what-is-dedicated-server.mdx",
-    "what-is-default-app.mdx",
-    "what-is-dependency.mdx"
+    "what-is-desktop-app.mdx",
+    "what-is-device-driver.mdx",
+    "what-is-device-encryption.mdx",
+    "what-is-dhcp.mdx",
+    "what-is-digital-certificate.mdx",
+    "what-is-digital-footprint.mdx",
+    "what-is-disaster-recovery.mdx",
+    "what-is-display-scaling.mdx",
+    "what-is-displayport.mdx",
+    "what-is-dns-cache.mdx"
   ]
 }
