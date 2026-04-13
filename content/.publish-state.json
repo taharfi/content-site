@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-04-12",
+  "lastPublishedDate": "2026-04-13",
   "publishedFiles": [
-    "what-is-desktop-app.mdx",
-    "what-is-device-driver.mdx",
-    "what-is-device-encryption.mdx",
-    "what-is-dhcp.mdx",
-    "what-is-digital-certificate.mdx",
-    "what-is-digital-footprint.mdx",
-    "what-is-disaster-recovery.mdx",
-    "what-is-display-scaling.mdx",
-    "what-is-displayport.mdx",
-    "what-is-dns-cache.mdx"
+    "what-is-dns-propagation.mdx",
+    "what-is-docker.mdx",
+    "what-is-domain-registrar.mdx",
+    "what-is-drive-by-download.mdx",
+    "what-is-dual-band-wi-fi.mdx",
+    "what-is-e-ink-display.mdx",
+    "what-is-edge-computing.mdx",
+    "what-is-email-spoofing.mdx",
+    "what-is-email-tracker.mdx",
+    "what-is-emulator.mdx"
   ]
 }
