@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-04-13",
+  "lastPublishedDate": "2026-04-14",
   "publishedFiles": [
-    "what-is-dns-propagation.mdx",
-    "what-is-docker.mdx",
-    "what-is-domain-registrar.mdx",
-    "what-is-drive-by-download.mdx",
-    "what-is-dual-band-wi-fi.mdx",
-    "what-is-e-ink-display.mdx",
-    "what-is-edge-computing.mdx",
-    "what-is-email-spoofing.mdx",
-    "what-is-email-tracker.mdx",
-    "what-is-emulator.mdx"
+    "what-is-environment-variable.mdx",
+    "what-is-ethernet-port.mdx",
+    "what-is-ethernet-switch.mdx",
+    "what-is-external-hard-drive.mdx",
+    "what-is-favicon.mdx",
+    "what-is-feature-flag.mdx",
+    "what-is-fiber-internet.mdx",
+    "what-is-file-format.mdx",
+    "what-is-file-sync.mdx",
+    "what-is-firmware.mdx"
   ]
 }
