@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-04-14",
+  "lastPublishedDate": "2026-04-15",
   "publishedFiles": [
-    "what-is-environment-variable.mdx",
-    "what-is-ethernet-port.mdx",
-    "what-is-ethernet-switch.mdx",
-    "what-is-external-hard-drive.mdx",
-    "what-is-favicon.mdx",
-    "what-is-feature-flag.mdx",
-    "what-is-fiber-internet.mdx",
-    "what-is-file-format.mdx",
-    "what-is-file-sync.mdx",
-    "what-is-firmware.mdx"
+    "what-is-form-validation.mdx",
+    "what-is-freemium.mdx",
+    "what-is-gpu.mdx",
+    "what-is-guest-wi-fi.mdx",
+    "what-is-hdmi.mdx",
+    "what-is-homepage.mdx",
+    "what-is-hotspot.mdx",
+    "what-is-html.mdx",
+    "what-is-iaas.mdx",
+    "what-is-identity-theft.mdx"
   ]
 }
