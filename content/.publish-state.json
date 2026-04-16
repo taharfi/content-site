@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-04-15",
+  "lastPublishedDate": "2026-04-16",
   "publishedFiles": [
-    "what-is-form-validation.mdx",
-    "what-is-freemium.mdx",
-    "what-is-gpu.mdx",
-    "what-is-guest-wi-fi.mdx",
-    "what-is-hdmi.mdx",
-    "what-is-homepage.mdx",
-    "what-is-hotspot.mdx",
-    "what-is-html.mdx",
-    "what-is-iaas.mdx",
-    "what-is-identity-theft.mdx"
+    "what-is-incognito-history.mdx",
+    "what-is-installer.mdx",
+    "what-is-internet-service-provider.mdx",
+    "what-is-ipv4.mdx",
+    "what-is-ipv6.mdx",
+    "what-is-javascript.mdx",
+    "what-is-jitter.mdx",
+    "what-is-keylogger.mdx",
+    "what-is-kubernetes.mdx",
+    "what-is-lan.mdx"
   ]
 }
