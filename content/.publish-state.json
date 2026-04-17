@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-04-16",
+  "lastPublishedDate": "2026-04-17",
   "publishedFiles": [
-    "what-is-incognito-history.mdx",
-    "what-is-installer.mdx",
-    "what-is-internet-service-provider.mdx",
-    "what-is-ipv4.mdx",
-    "what-is-ipv6.mdx",
-    "what-is-javascript.mdx",
-    "what-is-jitter.mdx",
-    "what-is-keylogger.mdx",
-    "what-is-kubernetes.mdx",
-    "what-is-lan.mdx"
+    "what-is-landing-page.mdx",
+    "what-is-laptop-docking-station.mdx",
+    "what-is-lazy-loading.mdx",
+    "what-is-least-privilege.mdx",
+    "what-is-link-tracking.mdx",
+    "what-is-load-balancer.mdx",
+    "what-is-location-history.mdx",
+    "what-is-location-tracking.mdx",
+    "what-is-malicious-link.mdx",
+    "what-is-malvertising.mdx"
   ]
 }
