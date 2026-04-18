@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-04-17",
+  "lastPublishedDate": "2026-04-18",
   "publishedFiles": [
-    "what-is-landing-page.mdx",
-    "what-is-laptop-docking-station.mdx",
-    "what-is-lazy-loading.mdx",
-    "what-is-least-privilege.mdx",
-    "what-is-link-tracking.mdx",
-    "what-is-load-balancer.mdx",
-    "what-is-location-history.mdx",
-    "what-is-location-tracking.mdx",
-    "what-is-malicious-link.mdx",
-    "what-is-malvertising.mdx"
+    "what-is-man-in-the-middle-attack.mdx",
+    "what-is-managed-database.mdx",
+    "what-is-managed-hosting.mdx",
+    "what-is-mechanical-keyboard.mdx",
+    "what-is-mesh-wi-fi.mdx",
+    "what-is-meta-description.mdx",
+    "what-is-microphone-permission.mdx",
+    "what-is-microphone.mdx",
+    "what-is-mobile-app.mdx",
+    "what-is-mobile-hotspot.mdx"
   ]
 }
