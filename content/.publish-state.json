@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-04-19",
+  "lastPublishedDate": "2026-04-20",
   "publishedFiles": [
-    "what-is-modem-router-combo.mdx",
-    "what-is-monitor-refresh-rate.mdx",
-    "what-is-motherboard.mdx",
-    "what-is-multi-cloud.mdx",
-    "what-is-nat.mdx",
-    "what-is-network-adapter.mdx",
-    "what-is-network-congestion.mdx",
-    "what-is-network-switch.mdx",
-    "what-is-noise-cancelling-headphones.mdx",
-    "what-is-nvme.mdx"
+    "what-is-object-storage.mdx",
+    "what-is-open-beta.mdx",
+    "what-is-paas.mdx",
+    "what-is-package-manager.mdx",
+    "what-is-page-speed.mdx",
+    "what-is-password-reset-scam.mdx",
+    "what-is-penetration-test.mdx",
+    "what-is-personal-data.mdx",
+    "what-is-ping.mdx",
+    "what-is-plugin.mdx"
   ]
 }
