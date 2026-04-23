@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-04-22",
+  "lastPublishedDate": "2026-04-23",
   "publishedFiles": [
-    "what-is-progressive-web-app.mdx",
-    "what-is-pseudonymization.mdx",
-    "what-is-public-ip-address.mdx",
-    "what-is-qos.mdx",
-    "what-is-ram-speed.mdx",
-    "what-is-recovery-email.mdx",
-    "what-is-redirect.mdx",
-    "what-is-release-notes.mdx",
-    "what-is-responsive-design.mdx",
-    "what-is-robots-txt.mdx"
+    "what-is-rollback-update.mdx",
+    "what-is-router-firmware.mdx",
+    "what-is-saas.mdx",
+    "what-is-safe-browsing.mdx",
+    "what-is-sandboxing.mdx",
+    "what-is-screen-burn-in.mdx",
+    "what-is-screen-resolution.mdx",
+    "what-is-script.mdx",
+    "what-is-sd-card.mdx",
+    "what-is-search-engine.mdx"
   ]
 }
