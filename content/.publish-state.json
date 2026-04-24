@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-04-23",
+  "lastPublishedDate": "2026-04-24",
   "publishedFiles": [
-    "what-is-rollback-update.mdx",
-    "what-is-router-firmware.mdx",
-    "what-is-saas.mdx",
-    "what-is-safe-browsing.mdx",
-    "what-is-sandboxing.mdx",
-    "what-is-screen-burn-in.mdx",
-    "what-is-screen-resolution.mdx",
-    "what-is-script.mdx",
-    "what-is-sd-card.mdx",
-    "what-is-search-engine.mdx"
+    "what-is-secure-boot.mdx",
+    "what-is-security-audit.mdx",
+    "what-is-security-key.mdx",
+    "what-is-security-patch.mdx",
+    "what-is-security-question.mdx",
+    "what-is-server-side-rendering.mdx",
+    "what-is-serverless.mdx",
+    "what-is-session-hijacking.mdx",
+    "what-is-settings-menu.mdx",
+    "what-is-shared-hosting.mdx"
   ]
 }
