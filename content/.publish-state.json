@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-04-25",
+  "lastPublishedDate": "2026-04-26",
   "publishedFiles": [
-    "what-is-shell.mdx",
-    "what-is-signal-strength.mdx",
-    "what-is-sim-swapping.mdx",
-    "what-is-single-sign-on.mdx",
-    "what-is-slug-in-a-url.mdx",
-    "what-is-software-bug.mdx",
-    "what-is-software-license.mdx",
-    "what-is-software-patch.mdx",
-    "what-is-software-update.mdx",
-    "what-is-solid-state-storage.mdx"
+    "what-is-ssid-broadcast.mdx",
+    "what-is-static-site.mdx",
+    "what-is-storage-capacity.mdx",
+    "what-is-subnet-mask.mdx",
+    "what-is-subscription-software.mdx",
+    "what-is-surge-protector.mdx",
+    "what-is-system-requirements.mdx",
+    "what-is-tcp.mdx",
+    "what-is-telemetry.mdx",
+    "what-is-terminal.mdx"
   ]
 }
