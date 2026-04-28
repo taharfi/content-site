@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-04-27",
+  "lastPublishedDate": "2026-04-28",
   "publishedFiles": [
-    "what-is-terms-of-service.mdx",
-    "what-is-thermal-throttling.mdx",
-    "what-is-third-party-cookie.mdx",
-    "what-is-threat-modeling.mdx",
-    "what-is-throughput.mdx",
-    "what-is-touchscreen.mdx",
-    "what-is-tracking-cookie.mdx",
-    "what-is-tracking-pixel.mdx",
-    "what-is-trackpad.mdx",
-    "what-is-tri-band-wi-fi.mdx"
+    "what-is-trojan-horse-virus.mdx",
+    "what-is-udp.mdx",
+    "what-is-uefi.mdx",
+    "what-is-uptime-sla.mdx",
+    "what-is-url.mdx",
+    "what-is-usb-c.mdx",
+    "what-is-usb-flash-drive.mdx",
+    "what-is-user-experience.mdx",
+    "what-is-user-interface.mdx",
+    "what-is-virtual-machine.mdx"
   ]
 }
