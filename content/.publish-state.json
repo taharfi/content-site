@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-04-28",
+  "lastPublishedDate": "2026-04-29",
   "publishedFiles": [
-    "what-is-trojan-horse-virus.mdx",
-    "what-is-udp.mdx",
-    "what-is-uefi.mdx",
-    "what-is-uptime-sla.mdx",
-    "what-is-url.mdx",
-    "what-is-usb-c.mdx",
-    "what-is-usb-flash-drive.mdx",
-    "what-is-user-experience.mdx",
-    "what-is-user-interface.mdx",
-    "what-is-virtual-machine.mdx"
+    "what-is-virtual-private-server.mdx",
+    "what-is-virtual-server.mdx",
+    "what-is-vulnerability-scanner.mdx",
+    "what-is-wan.mdx",
+    "what-is-web-accessibility.mdx",
+    "what-is-web-font.mdx",
+    "what-is-web-server.mdx",
+    "what-is-webcam.mdx",
+    "what-is-webpage.mdx",
+    "what-is-website-analytics.mdx"
   ]
 }
