@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-04-30",
+  "lastPublishedDate": "2026-05-12",
   "publishedFiles": [
-    "what-is-website-uptime.mdx",
-    "what-is-website.mdx",
-    "what-is-wi-fi-channel.mdx",
-    "what-is-wireless-interference.mdx",
-    "what-is-wordpress.mdx",
-    "what-is-workflow-automation.mdx",
-    "what-is-worm-in-cybersecurity.mdx",
-    "what-is-xml-sitemap.mdx",
-    "what-is-zero-day.mdx",
-    "what-is-zip-file.mdx"
+    "what-is-2-5-inch-drive.mdx",
+    "what-is-200-ok.mdx",
+    "what-is-3-5-inch-drive.mdx",
+    "what-is-301-moved-permanently.mdx",
+    "what-is-302-found.mdx",
+    "what-is-304-not-modified.mdx",
+    "what-is-3des.mdx",
+    "what-is-400-bad-request.mdx",
+    "what-is-401-unauthorized.mdx",
+    "what-is-403-forbidden.mdx"
   ]
 }
