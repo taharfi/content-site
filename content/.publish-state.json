@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-05-12",
+  "lastPublishedDate": "2026-05-13",
   "publishedFiles": [
-    "what-is-2-5-inch-drive.mdx",
-    "what-is-200-ok.mdx",
-    "what-is-3-5-inch-drive.mdx",
-    "what-is-301-moved-permanently.mdx",
-    "what-is-302-found.mdx",
-    "what-is-304-not-modified.mdx",
-    "what-is-3des.mdx",
-    "what-is-400-bad-request.mdx",
-    "what-is-401-unauthorized.mdx",
-    "what-is-403-forbidden.mdx"
+    "what-is-500-internal-server-error.mdx",
+    "what-is-503-service-unavailable.mdx",
+    "what-is-7zip.mdx",
+    "what-is-a-record.mdx",
+    "what-is-aaaa-record.mdx",
+    "what-is-aac.mdx",
+    "what-is-abstract-class.mdx",
+    "what-is-abstraction.mdx",
+    "what-is-accelerometer.mdx",
+    "what-is-accept-header.mdx"
   ]
 }
