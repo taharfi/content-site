@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-05-14",
+  "lastPublishedDate": "2026-05-15",
   "publishedFiles": [
-    "what-is-access-control.mdx",
-    "what-is-accounting-software.mdx",
-    "what-is-accuracy-metric.mdx",
-    "what-is-accuracy-principle.mdx",
-    "what-is-acid-properties.mdx",
-    "what-is-acr.mdx",
-    "what-is-activation-function.mdx",
-    "what-is-actor-critic.mdx",
-    "what-is-adam-optimizer.mdx",
-    "what-is-adapter-pattern.mdx"
+    "what-is-adaptive-battery.mdx",
+    "what-is-addressing-scheme.mdx",
+    "what-is-adjacency-list.mdx",
+    "what-is-adjacency-matrix.mdx",
+    "what-is-advanced-search.mdx",
+    "what-is-adversarial-examples.mdx",
+    "what-is-aes.mdx",
+    "what-is-aggregation.mdx",
+    "what-is-agile-methodology.mdx",
+    "what-is-aiff.mdx"
   ]
 }
