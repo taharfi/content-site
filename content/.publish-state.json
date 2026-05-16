@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-05-15",
+  "lastPublishedDate": "2026-05-16",
   "publishedFiles": [
-    "what-is-adaptive-battery.mdx",
-    "what-is-addressing-scheme.mdx",
-    "what-is-adjacency-list.mdx",
-    "what-is-adjacency-matrix.mdx",
-    "what-is-advanced-search.mdx",
-    "what-is-adversarial-examples.mdx",
-    "what-is-aes.mdx",
-    "what-is-aggregation.mdx",
-    "what-is-agile-methodology.mdx",
-    "what-is-aiff.mdx"
+    "what-is-air-cooling.mdx",
+    "what-is-alerting.mdx",
+    "what-is-algorithm.mdx",
+    "what-is-alibaba-cloud.mdx",
+    "what-is-alternative-dns.mdx",
+    "what-is-amd.mdx",
+    "what-is-analytics.mdx",
+    "what-is-android.mdx",
+    "what-is-anomaly-detection.mdx",
+    "what-is-anycast.mdx"
   ]
 }
