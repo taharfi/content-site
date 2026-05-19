@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-05-18",
+  "lastPublishedDate": "2026-05-19",
   "publishedFiles": [
-    "what-is-app-standby.mdx",
-    "what-is-app-store.mdx",
-    "what-is-app-submission.mdx",
-    "what-is-app-update.mdx",
-    "what-is-apple-pay.mdx",
-    "what-is-apple-silicon.mdx",
-    "what-is-application-layer.mdx",
-    "what-is-argon2.mdx",
-    "what-is-argument.mdx",
-    "what-is-arm.mdx"
+    "what-is-arp-spoofing.mdx",
+    "what-is-array.mdx",
+    "what-is-artificial-intelligence.mdx",
+    "what-is-artificial-neural-network.mdx",
+    "what-is-ascii.mdx",
+    "what-is-asymmetric-encryption.mdx",
+    "what-is-asymptotic-analysis.mdx",
+    "what-is-atomicity.mdx",
+    "what-is-attention-mechanism.mdx",
+    "what-is-attribute-based-access-control.mdx"
   ]
 }
