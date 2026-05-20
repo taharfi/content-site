@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-05-19",
+  "lastPublishedDate": "2026-05-20",
   "publishedFiles": [
-    "what-is-arp-spoofing.mdx",
-    "what-is-array.mdx",
-    "what-is-artificial-intelligence.mdx",
-    "what-is-artificial-neural-network.mdx",
-    "what-is-ascii.mdx",
-    "what-is-asymmetric-encryption.mdx",
-    "what-is-asymptotic-analysis.mdx",
-    "what-is-atomicity.mdx",
-    "what-is-attention-mechanism.mdx",
-    "what-is-attribute-based-access-control.mdx"
+    "what-is-audio-call.mdx",
+    "what-is-auto-update.mdx",
+    "what-is-autocomplete.mdx",
+    "what-is-avi.mdx",
+    "what-is-avl-tree.mdx",
+    "what-is-avro.mdx",
+    "what-is-aws-cloudformation.mdx",
+    "what-is-aws-cloudwatch.mdx",
+    "what-is-aws-dynamodb.mdx",
+    "what-is-aws-ec2.mdx"
   ]
 }
