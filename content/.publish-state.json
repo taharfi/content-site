@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-05-20",
+  "lastPublishedDate": "2026-05-21",
   "publishedFiles": [
-    "what-is-audio-call.mdx",
-    "what-is-auto-update.mdx",
-    "what-is-autocomplete.mdx",
-    "what-is-avi.mdx",
-    "what-is-avl-tree.mdx",
-    "what-is-avro.mdx",
-    "what-is-aws-cloudformation.mdx",
-    "what-is-aws-cloudwatch.mdx",
-    "what-is-aws-dynamodb.mdx",
-    "what-is-aws-ec2.mdx"
+    "what-is-aws-iam.mdx",
+    "what-is-aws-lambda.mdx",
+    "what-is-aws-rds.mdx",
+    "what-is-aws-s3.mdx",
+    "what-is-aws-security-group.mdx",
+    "what-is-aws-sns.mdx",
+    "what-is-aws-sqs.mdx",
+    "what-is-aws-vpc.mdx",
+    "what-is-aws.mdx",
+    "what-is-azure-app-service.mdx"
   ]
 }
