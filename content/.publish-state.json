@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-05-21",
+  "lastPublishedDate": "2026-05-22",
   "publishedFiles": [
-    "what-is-aws-iam.mdx",
-    "what-is-aws-lambda.mdx",
-    "what-is-aws-rds.mdx",
-    "what-is-aws-s3.mdx",
-    "what-is-aws-security-group.mdx",
-    "what-is-aws-sns.mdx",
-    "what-is-aws-sqs.mdx",
-    "what-is-aws-vpc.mdx",
-    "what-is-aws.mdx",
-    "what-is-azure-app-service.mdx"
+    "what-is-azure-blob-storage.mdx",
+    "what-is-azure-cosmos-db.mdx",
+    "what-is-azure-devops.mdx",
+    "what-is-azure-function.mdx",
+    "what-is-azure-sql-database.mdx",
+    "what-is-azure-vm.mdx",
+    "what-is-azure.mdx",
+    "what-is-b-tree.mdx",
+    "what-is-backdoor.mdx",
+    "what-is-background-process.mdx"
   ]
 }
