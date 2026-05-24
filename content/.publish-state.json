@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-05-23",
+  "lastPublishedDate": "2026-05-24",
   "publishedFiles": [
-    "what-is-backlog.mdx",
-    "what-is-backpropagation.mdx",
-    "what-is-backtracking.mdx",
-    "what-is-backup-database.mdx",
-    "what-is-badge-access.mdx",
-    "what-is-balanced-tree.mdx",
-    "what-is-bandwidth-throttling.mdx",
-    "what-is-barcode.mdx",
-    "what-is-barometer.mdx",
-    "what-is-base64-encoding.mdx"
+    "what-is-batch-normalization.mdx",
+    "what-is-batch-processing.mdx",
+    "what-is-battery-optimization.mdx",
+    "what-is-bayesian-optimization.mdx",
+    "what-is-bcrypt.mdx",
+    "what-is-bellman-ford.mdx",
+    "what-is-bert.mdx",
+    "what-is-bgp.mdx",
+    "what-is-bias-in-ai.mdx",
+    "what-is-big-data.mdx"
   ]
 }
