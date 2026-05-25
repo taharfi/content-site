@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-05-24",
+  "lastPublishedDate": "2026-05-25",
   "publishedFiles": [
-    "what-is-batch-normalization.mdx",
-    "what-is-batch-processing.mdx",
-    "what-is-battery-optimization.mdx",
-    "what-is-bayesian-optimization.mdx",
-    "what-is-bcrypt.mdx",
-    "what-is-bellman-ford.mdx",
-    "what-is-bert.mdx",
-    "what-is-bgp.mdx",
-    "what-is-bias-in-ai.mdx",
-    "what-is-big-data.mdx"
+    "what-is-big-endian.mdx",
+    "what-is-big-o-notation.mdx",
+    "what-is-billing.mdx",
+    "what-is-binary-tree.mdx",
+    "what-is-block-user.mdx",
+    "what-is-bmp.mdx",
+    "what-is-bom.mdx",
+    "what-is-bookkeeping.mdx",
+    "what-is-boolean.mdx",
+    "what-is-branch.mdx"
   ]
 }
