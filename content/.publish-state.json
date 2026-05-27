@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-05-25",
+  "lastPublishedDate": "2026-05-27",
   "publishedFiles": [
-    "what-is-big-endian.mdx",
-    "what-is-big-o-notation.mdx",
-    "what-is-billing.mdx",
-    "what-is-binary-tree.mdx",
-    "what-is-block-user.mdx",
-    "what-is-bmp.mdx",
-    "what-is-bom.mdx",
-    "what-is-bookkeeping.mdx",
-    "what-is-boolean.mdx",
-    "what-is-branch.mdx"
+    "what-is-brand-ambassador.mdx",
+    "what-is-breadcrumb.mdx",
+    "what-is-breadth-first-search.mdx",
+    "what-is-bridge.mdx",
+    "what-is-brightness.mdx",
+    "what-is-broadcast-address.mdx",
+    "what-is-broadcast.mdx",
+    "what-is-bubble-sort.mdx",
+    "what-is-bucket-sort.mdx",
+    "what-is-build-pipeline.mdx"
   ]
 }
