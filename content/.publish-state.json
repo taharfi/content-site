@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-05-27",
+  "lastPublishedDate": "2026-05-28",
   "publishedFiles": [
-    "what-is-brand-ambassador.mdx",
-    "what-is-breadcrumb.mdx",
-    "what-is-breadth-first-search.mdx",
-    "what-is-bridge.mdx",
-    "what-is-brightness.mdx",
-    "what-is-broadcast-address.mdx",
-    "what-is-broadcast.mdx",
-    "what-is-bubble-sort.mdx",
-    "what-is-bucket-sort.mdx",
-    "what-is-build-pipeline.mdx"
+    "what-is-builder-pattern.mdx",
+    "what-is-bundle-identifier.mdx",
+    "what-is-burndown-chart.mdx",
+    "what-is-bus-topology.mdx",
+    "what-is-business-continuity.mdx",
+    "what-is-business-intelligence.mdx",
+    "what-is-byte-order-mark.mdx",
+    "what-is-bzip2.mdx",
+    "what-is-cache-api.mdx",
+    "what-is-cache-header.mdx"
   ]
 }
