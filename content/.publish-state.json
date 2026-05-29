@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-05-28",
+  "lastPublishedDate": "2026-05-29",
   "publishedFiles": [
-    "what-is-builder-pattern.mdx",
-    "what-is-bundle-identifier.mdx",
-    "what-is-burndown-chart.mdx",
-    "what-is-bus-topology.mdx",
-    "what-is-business-continuity.mdx",
-    "what-is-business-intelligence.mdx",
-    "what-is-byte-order-mark.mdx",
-    "what-is-bzip2.mdx",
-    "what-is-cache-api.mdx",
-    "what-is-cache-header.mdx"
+    "what-is-cache-memory.mdx",
+    "what-is-calendar-permission.mdx",
+    "what-is-cas-latency.mdx",
+    "what-is-cassandra.mdx",
+    "what-is-cat5-cable.mdx",
+    "what-is-cat6-cable.mdx",
+    "what-is-cat7-cable.mdx",
+    "what-is-category-hierarchy.mdx",
+    "what-is-category-seo.mdx",
+    "what-is-ccpa.mdx"
   ]
 }
