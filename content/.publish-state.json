@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-05-29",
+  "lastPublishedDate": "2026-05-30",
   "publishedFiles": [
-    "what-is-cache-memory.mdx",
-    "what-is-calendar-permission.mdx",
-    "what-is-cas-latency.mdx",
-    "what-is-cassandra.mdx",
-    "what-is-cat5-cable.mdx",
-    "what-is-cat6-cable.mdx",
-    "what-is-cat7-cable.mdx",
-    "what-is-category-hierarchy.mdx",
-    "what-is-category-seo.mdx",
-    "what-is-ccpa.mdx"
+    "what-is-ccTLD.mdx",
+    "what-is-certificate-chain.mdx",
+    "what-is-certificate-pinning.mdx",
+    "what-is-certificate-revocation.mdx",
+    "what-is-certificate-validation.mdx",
+    "what-is-certificate.mdx",
+    "what-is-chain-of-responsibility.mdx",
+    "what-is-changelog.mdx",
+    "what-is-chargeback.mdx",
+    "what-is-charset.mdx"
   ]
 }
