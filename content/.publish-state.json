@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-05-31",
+  "lastPublishedDate": "2026-06-01",
   "publishedFiles": [
-    "what-is-checkout-process.mdx",
-    "what-is-checksum.mdx",
-    "what-is-ci-cd-pipeline.mdx",
-    "what-is-class.mdx",
-    "what-is-classification.mdx",
-    "what-is-classless-interdomain-routing.mdx",
-    "what-is-clock-speed.mdx",
-    "what-is-closure.mdx",
-    "what-is-cloud-storage-provider.mdx",
-    "what-is-cloudflare.mdx"
+    "what-is-clustering.mdx",
+    "what-is-cname-record.mdx",
+    "what-is-coaxial-cable.mdx",
+    "what-is-code-comments.mdx",
+    "what-is-code-coverage.mdx",
+    "what-is-code-formatting.mdx",
+    "what-is-code-review.mdx",
+    "what-is-code-smell.mdx",
+    "what-is-collaboration.mdx",
+    "what-is-collaborative-editing.mdx"
   ]
 }
