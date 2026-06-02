@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-06-01",
+  "lastPublishedDate": "2026-06-02",
   "publishedFiles": [
-    "what-is-clustering.mdx",
-    "what-is-cname-record.mdx",
-    "what-is-coaxial-cable.mdx",
-    "what-is-code-comments.mdx",
-    "what-is-code-coverage.mdx",
-    "what-is-code-formatting.mdx",
-    "what-is-code-review.mdx",
-    "what-is-code-smell.mdx",
-    "what-is-collaboration.mdx",
-    "what-is-collaborative-editing.mdx"
+    "what-is-collision-handling.mdx",
+    "what-is-colocation.mdx",
+    "what-is-color-accuracy.mdx",
+    "what-is-color-gamut.mdx",
+    "what-is-column.mdx",
+    "what-is-command-pattern.mdx",
+    "what-is-comment.mdx",
+    "what-is-commercial-software.mdx",
+    "what-is-commission-model.mdx",
+    "what-is-commit.mdx"
   ]
 }
