@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-06-03",
+  "lastPublishedDate": "2026-06-04",
   "publishedFiles": [
-    "what-is-community.mdx",
-    "what-is-composition.mdx",
-    "what-is-compression.mdx",
-    "what-is-computer-vision.mdx",
-    "what-is-concurrent-licensing.mdx",
-    "what-is-conference-call.mdx",
-    "what-is-configmap.mdx",
-    "what-is-confusion-matrix.mdx",
-    "what-is-connection.mdx",
-    "what-is-consent.mdx"
+    "what-is-consistency.mdx",
+    "what-is-constant.mdx",
+    "what-is-constructor.mdx",
+    "what-is-contacts-permission.mdx",
+    "what-is-container-image.mdx",
+    "what-is-container-orchestration.mdx",
+    "what-is-container-registry.mdx",
+    "what-is-content-creator.mdx",
+    "what-is-content-moderation.mdx",
+    "what-is-content-type-header.mdx"
   ]
 }
