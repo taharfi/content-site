@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-06-04",
+  "lastPublishedDate": "2026-06-05",
   "publishedFiles": [
-    "what-is-consistency.mdx",
-    "what-is-constant.mdx",
-    "what-is-constructor.mdx",
-    "what-is-contacts-permission.mdx",
-    "what-is-container-image.mdx",
-    "what-is-container-orchestration.mdx",
-    "what-is-container-registry.mdx",
-    "what-is-content-creator.mdx",
-    "what-is-content-moderation.mdx",
-    "what-is-content-type-header.mdx"
+    "what-is-content-type.mdx",
+    "what-is-continuous-deployment.mdx",
+    "what-is-continuous-integration.mdx",
+    "what-is-contract.mdx",
+    "what-is-contrast-ratio.mdx",
+    "what-is-convolutional-neural-network.mdx",
+    "what-is-cookies.mdx",
+    "what-is-cordova.mdx",
+    "what-is-core-count.mdx",
+    "what-is-core-i3.mdx"
   ]
 }
