@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-06-05",
+  "lastPublishedDate": "2026-06-06",
   "publishedFiles": [
-    "what-is-content-type.mdx",
-    "what-is-continuous-deployment.mdx",
-    "what-is-continuous-integration.mdx",
-    "what-is-contract.mdx",
-    "what-is-contrast-ratio.mdx",
-    "what-is-convolutional-neural-network.mdx",
-    "what-is-cookies.mdx",
-    "what-is-cordova.mdx",
-    "what-is-core-count.mdx",
-    "what-is-core-i3.mdx"
+    "what-is-core-i5.mdx",
+    "what-is-core-i7.mdx",
+    "what-is-core-i9.mdx",
+    "what-is-cors-error.mdx",
+    "what-is-cors.mdx",
+    "what-is-counting-sort.mdx",
+    "what-is-coupon.mdx",
+    "what-is-cpu-usage.mdx",
+    "what-is-crash-reporting.mdx",
+    "what-is-crc.mdx"
   ]
 }
