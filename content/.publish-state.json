@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-06-07",
+  "lastPublishedDate": "2026-06-08",
   "publishedFiles": [
-    "what-is-credit-card-processing.mdx",
-    "what-is-crisis-management.mdx",
-    "what-is-cronjob.mdx",
-    "what-is-cross-entropy-loss.mdx",
-    "what-is-cross-join.mdx",
-    "what-is-cross-platform-app.mdx",
-    "what-is-cross-sell.mdx",
-    "what-is-cross-validation.mdx",
-    "what-is-cryptocurrency-payment.mdx",
-    "what-is-csp.mdx"
+    "what-is-csv.mdx",
+    "what-is-cte.mdx",
+    "what-is-customer-account.mdx",
+    "what-is-customer-profile.mdx",
+    "what-is-customer-rating.mdx",
+    "what-is-cve.mdx",
+    "what-is-cvss-score.mdx",
+    "what-is-cyberbullying.mdx",
+    "what-is-daemonset.mdx",
+    "what-is-dashboard.mdx"
   ]
 }
