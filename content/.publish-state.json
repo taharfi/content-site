@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-06-09",
+  "lastPublishedDate": "2026-06-10",
   "publishedFiles": [
-    "what-is-dashboarding.mdx",
-    "what-is-data-cleaning.mdx",
-    "what-is-data-collection.mdx",
-    "what-is-data-controller.mdx",
-    "what-is-data-deletion.mdx",
-    "what-is-data-integration.mdx",
-    "what-is-data-lake.mdx",
-    "what-is-data-link-layer.mdx",
-    "what-is-data-mart.mdx",
-    "what-is-data-minimization-principle.mdx"
+    "what-is-data-pipeline.mdx",
+    "what-is-data-portability.mdx",
+    "what-is-data-preprocessing.mdx",
+    "what-is-data-processor.mdx",
+    "what-is-data-protection-officer.mdx",
+    "what-is-data-sharing.mdx",
+    "what-is-data-structure.mdx",
+    "what-is-data-subject-rights.mdx",
+    "what-is-data-transfer-agreement.mdx",
+    "what-is-data-transformation.mdx"
   ]
 }
