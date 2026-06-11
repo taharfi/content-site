@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-06-10",
+  "lastPublishedDate": "2026-06-11",
   "publishedFiles": [
-    "what-is-data-pipeline.mdx",
-    "what-is-data-portability.mdx",
-    "what-is-data-preprocessing.mdx",
-    "what-is-data-processor.mdx",
-    "what-is-data-protection-officer.mdx",
-    "what-is-data-sharing.mdx",
-    "what-is-data-structure.mdx",
-    "what-is-data-subject-rights.mdx",
-    "what-is-data-transfer-agreement.mdx",
-    "what-is-data-transformation.mdx"
+    "what-is-data-type.mdx",
+    "what-is-data-visualization.mdx",
+    "what-is-data-warehouse.mdx",
+    "what-is-data.mdx",
+    "what-is-database-management-system.mdx",
+    "what-is-datadog.mdx",
+    "what-is-dataset.mdx",
+    "what-is-dB-noise.mdx",
+    "what-is-dbscan.mdx",
+    "what-is-ddr4.mdx"
   ]
 }
