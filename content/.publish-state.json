@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-06-11",
+  "lastPublishedDate": "2026-06-12",
   "publishedFiles": [
-    "what-is-data-type.mdx",
-    "what-is-data-visualization.mdx",
-    "what-is-data-warehouse.mdx",
-    "what-is-data.mdx",
-    "what-is-database-management-system.mdx",
-    "what-is-datadog.mdx",
-    "what-is-dataset.mdx",
-    "what-is-dB-noise.mdx",
-    "what-is-dbscan.mdx",
-    "what-is-ddr4.mdx"
+    "what-is-ddr5.mdx",
+    "what-is-debit-card.mdx",
+    "what-is-debugging.mdx",
+    "what-is-decorator-pattern.mdx",
+    "what-is-decryption.mdx",
+    "what-is-deep-learning.mdx",
+    "what-is-deepfake.mdx",
+    "what-is-default-gateway.mdx",
+    "what-is-denormalization.mdx",
+    "what-is-dense-rank.mdx"
   ]
 }
