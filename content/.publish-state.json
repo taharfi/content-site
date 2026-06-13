@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-06-12",
+  "lastPublishedDate": "2026-06-13",
   "publishedFiles": [
-    "what-is-ddr5.mdx",
-    "what-is-debit-card.mdx",
-    "what-is-debugging.mdx",
-    "what-is-decorator-pattern.mdx",
-    "what-is-decryption.mdx",
-    "what-is-deep-learning.mdx",
-    "what-is-deepfake.mdx",
-    "what-is-default-gateway.mdx",
-    "what-is-denormalization.mdx",
-    "what-is-dense-rank.mdx"
+    "what-is-deployment.mdx",
+    "what-is-depth-first-search.mdx",
+    "what-is-des.mdx",
+    "what-is-deserialization.mdx",
+    "what-is-design-pattern.mdx",
+    "what-is-differential-privacy.mdx",
+    "what-is-digital-citizenship.mdx",
+    "what-is-digital-signature.mdx",
+    "what-is-digital-wallet.mdx",
+    "what-is-digitalocean.mdx"
   ]
 }
