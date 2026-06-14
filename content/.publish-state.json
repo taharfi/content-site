@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-06-13",
+  "lastPublishedDate": "2026-06-14",
   "publishedFiles": [
-    "what-is-deployment.mdx",
-    "what-is-depth-first-search.mdx",
-    "what-is-des.mdx",
-    "what-is-deserialization.mdx",
-    "what-is-design-pattern.mdx",
-    "what-is-differential-privacy.mdx",
-    "what-is-digital-citizenship.mdx",
-    "what-is-digital-signature.mdx",
-    "what-is-digital-wallet.mdx",
-    "what-is-digitalocean.mdx"
+    "what-is-dijkstra-algorithm.mdx",
+    "what-is-dimensionality-reduction.mdx",
+    "what-is-direct-message.mdx",
+    "what-is-directed-graph.mdx",
+    "what-is-disaster-recovery-plan.mdx",
+    "what-is-discord.mdx",
+    "what-is-discount-code.mdx",
+    "what-is-discriminative-model.mdx",
+    "what-is-disinformation.mdx",
+    "what-is-disk-failure.mdx"
   ]
 }
