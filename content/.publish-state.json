@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-06-14",
+  "lastPublishedDate": "2026-06-15",
   "publishedFiles": [
-    "what-is-dijkstra-algorithm.mdx",
-    "what-is-dimensionality-reduction.mdx",
-    "what-is-direct-message.mdx",
-    "what-is-directed-graph.mdx",
-    "what-is-disaster-recovery-plan.mdx",
-    "what-is-discord.mdx",
-    "what-is-discount-code.mdx",
-    "what-is-discriminative-model.mdx",
-    "what-is-disinformation.mdx",
-    "what-is-disk-failure.mdx"
+    "what-is-disk-recovery.mdx",
+    "what-is-disk-usage.mdx",
+    "what-is-displayport-version.mdx",
+    "what-is-dispute-resolution.mdx",
+    "what-is-distributed-tracing.mdx",
+    "what-is-divide-and-conquer.mdx",
+    "what-is-dkim.mdx",
+    "what-is-dmarc.mdx",
+    "what-is-dns-over-https.mdx",
+    "what-is-dns-record.mdx"
   ]
 }
