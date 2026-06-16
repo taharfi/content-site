@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-06-15",
+  "lastPublishedDate": "2026-06-16",
   "publishedFiles": [
-    "what-is-disk-recovery.mdx",
-    "what-is-disk-usage.mdx",
-    "what-is-displayport-version.mdx",
-    "what-is-dispute-resolution.mdx",
-    "what-is-distributed-tracing.mdx",
-    "what-is-divide-and-conquer.mdx",
-    "what-is-dkim.mdx",
-    "what-is-dmarc.mdx",
-    "what-is-dns-over-https.mdx",
-    "what-is-dns-record.mdx"
+    "what-is-dns-server.mdx",
+    "what-is-docker-hub.mdx",
+    "what-is-docker-image.mdx",
+    "what-is-dockerfile.mdx",
+    "what-is-docp.mdx",
+    "what-is-docstring.mdx",
+    "what-is-document-sharing.mdx",
+    "what-is-documentation.mdx",
+    "what-is-domain-extension.mdx",
+    "what-is-domain-hosting.mdx"
   ]
 }
