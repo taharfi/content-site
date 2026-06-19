@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-06-18",
+  "lastPublishedDate": "2026-06-19",
   "publishedFiles": [
-    "what-is-dynamodb.mdx",
-    "what-is-ecc.mdx",
-    "what-is-ecommerce.mdx",
-    "what-is-ecr.mdx",
-    "what-is-elasticsearch.mdx",
-    "what-is-elt.mdx",
-    "what-is-email-attachment.mdx",
-    "what-is-email-authentication.mdx",
-    "what-is-email-client.mdx",
-    "what-is-email-encryption.mdx"
+    "what-is-email-filtering.mdx",
+    "what-is-email-forwarding.mdx",
+    "what-is-email-provider.mdx",
+    "what-is-email-signature.mdx",
+    "what-is-email.mdx",
+    "what-is-emotion-detection.mdx",
+    "what-is-encapsulation.mdx",
+    "what-is-encoding.mdx",
+    "what-is-end-of-life.mdx",
+    "what-is-end-to-end-test.mdx"
   ]
 }
