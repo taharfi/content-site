@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-06-19",
+  "lastPublishedDate": "2026-06-20",
   "publishedFiles": [
-    "what-is-email-filtering.mdx",
-    "what-is-email-forwarding.mdx",
-    "what-is-email-provider.mdx",
-    "what-is-email-signature.mdx",
-    "what-is-email.mdx",
-    "what-is-emotion-detection.mdx",
-    "what-is-encapsulation.mdx",
-    "what-is-encoding.mdx",
-    "what-is-end-of-life.mdx",
-    "what-is-end-to-end-test.mdx"
+    "what-is-endianness.mdx",
+    "what-is-engagement.mdx",
+    "what-is-enterprise-software.mdx",
+    "what-is-epyc.mdx",
+    "what-is-error-page.mdx",
+    "what-is-etag.mdx",
+    "what-is-ethernet-cable.mdx",
+    "what-is-etl.mdx",
+    "what-is-evaluation-copy.mdx",
+    "what-is-event-streaming.mdx"
   ]
 }
