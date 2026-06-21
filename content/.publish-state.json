@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-06-20",
+  "lastPublishedDate": "2026-06-21",
   "publishedFiles": [
-    "what-is-endianness.mdx",
-    "what-is-engagement.mdx",
-    "what-is-enterprise-software.mdx",
-    "what-is-epyc.mdx",
-    "what-is-error-page.mdx",
-    "what-is-etag.mdx",
-    "what-is-ethernet-cable.mdx",
-    "what-is-etl.mdx",
-    "what-is-evaluation-copy.mdx",
-    "what-is-event-streaming.mdx"
+    "what-is-execution-plan.mdx",
+    "what-is-expense-tracking.mdx",
+    "what-is-expire-header.mdx",
+    "what-is-explainability.mdx",
+    "what-is-exploit.mdx",
+    "what-is-f1-score.mdx",
+    "what-is-facade-pattern.mdx",
+    "what-is-face-recognition.mdx",
+    "what-is-facebook.mdx",
+    "what-is-faceted-search.mdx"
   ]
 }
