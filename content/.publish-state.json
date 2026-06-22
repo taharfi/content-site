@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-06-21",
+  "lastPublishedDate": "2026-06-22",
   "publishedFiles": [
-    "what-is-execution-plan.mdx",
-    "what-is-expense-tracking.mdx",
-    "what-is-expire-header.mdx",
-    "what-is-explainability.mdx",
-    "what-is-exploit.mdx",
-    "what-is-f1-score.mdx",
-    "what-is-facade-pattern.mdx",
-    "what-is-face-recognition.mdx",
-    "what-is-facebook.mdx",
-    "what-is-faceted-search.mdx"
+    "what-is-fact-checking.mdx",
+    "what-is-factory-pattern.mdx",
+    "what-is-fairness.mdx",
+    "what-is-fake-news.mdx",
+    "what-is-fan-curve.mdx",
+    "what-is-fast-ethernet.mdx",
+    "what-is-feature-engineering.mdx",
+    "what-is-feature-extraction.mdx",
+    "what-is-feature-selection.mdx",
+    "what-is-federated-learning.mdx"
   ]
 }
