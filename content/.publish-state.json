@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-06-22",
+  "lastPublishedDate": "2026-06-23",
   "publishedFiles": [
-    "what-is-fact-checking.mdx",
-    "what-is-factory-pattern.mdx",
-    "what-is-fairness.mdx",
-    "what-is-fake-news.mdx",
-    "what-is-fan-curve.mdx",
-    "what-is-fast-ethernet.mdx",
-    "what-is-feature-engineering.mdx",
-    "what-is-feature-extraction.mdx",
-    "what-is-feature-selection.mdx",
-    "what-is-federated-learning.mdx"
+    "what-is-few-shot-learning.mdx",
+    "what-is-fiber-optic-cable.mdx",
+    "what-is-file-sharing.mdx",
+    "what-is-file-synchronization.mdx",
+    "what-is-file-transfer.mdx",
+    "what-is-file-versioning.mdx",
+    "what-is-filter-options.mdx",
+    "what-is-filtering.mdx",
+    "what-is-fine-tuning.mdx",
+    "what-is-fingerprint-scanner.mdx"
   ]
 }
