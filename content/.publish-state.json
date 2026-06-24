@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-06-23",
+  "lastPublishedDate": "2026-06-24",
   "publishedFiles": [
-    "what-is-few-shot-learning.mdx",
-    "what-is-fiber-optic-cable.mdx",
-    "what-is-file-sharing.mdx",
-    "what-is-file-synchronization.mdx",
-    "what-is-file-transfer.mdx",
-    "what-is-file-versioning.mdx",
-    "what-is-filter-options.mdx",
-    "what-is-filtering.mdx",
-    "what-is-fine-tuning.mdx",
-    "what-is-fingerprint-scanner.mdx"
+    "what-is-firestore.mdx",
+    "what-is-firewall.mdx",
+    "what-is-first-normal-form.mdx",
+    "what-is-first-party-cookie.mdx",
+    "what-is-first-value.mdx",
+    "what-is-flac.mdx",
+    "what-is-flash-cookie.mdx",
+    "what-is-floyd-warshall.mdx",
+    "what-is-flutter.mdx",
+    "what-is-flux-pattern.mdx"
   ]
 }
