@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-06-24",
+  "lastPublishedDate": "2026-06-25",
   "publishedFiles": [
-    "what-is-firestore.mdx",
-    "what-is-firewall.mdx",
-    "what-is-first-normal-form.mdx",
-    "what-is-first-party-cookie.mdx",
-    "what-is-first-value.mdx",
-    "what-is-flac.mdx",
-    "what-is-flash-cookie.mdx",
-    "what-is-floyd-warshall.mdx",
-    "what-is-flutter.mdx",
-    "what-is-flux-pattern.mdx"
+    "what-is-flv.mdx",
+    "what-is-follower.mdx",
+    "what-is-following.mdx",
+    "what-is-foreground-service.mdx",
+    "what-is-foreign-key.mdx",
+    "what-is-forum.mdx",
+    "what-is-forward-propagation.mdx",
+    "what-is-free-software.mdx",
+    "what-is-freesync.mdx",
+    "what-is-freeware.mdx"
   ]
 }
