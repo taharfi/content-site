@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-06-25",
+  "lastPublishedDate": "2026-06-26",
   "publishedFiles": [
-    "what-is-flv.mdx",
-    "what-is-follower.mdx",
-    "what-is-following.mdx",
-    "what-is-foreground-service.mdx",
-    "what-is-foreign-key.mdx",
-    "what-is-forum.mdx",
-    "what-is-forward-propagation.mdx",
-    "what-is-free-software.mdx",
-    "what-is-freesync.mdx",
-    "what-is-freeware.mdx"
+    "what-is-friend-request.mdx",
+    "what-is-ftp.mdx",
+    "what-is-fulfillment.mdx",
+    "what-is-full-outer-join.mdx",
+    "what-is-function.mdx",
+    "what-is-fuzzy-search.mdx",
+    "what-is-g-sync.mdx",
+    "what-is-gcp-app-engine.mdx",
+    "what-is-gcp-bigtable.mdx",
+    "what-is-gcp-cloud-functions.mdx"
   ]
 }
