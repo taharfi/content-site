@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-06-26",
+  "lastPublishedDate": "2026-06-27",
   "publishedFiles": [
-    "what-is-friend-request.mdx",
-    "what-is-ftp.mdx",
-    "what-is-fulfillment.mdx",
-    "what-is-full-outer-join.mdx",
-    "what-is-function.mdx",
-    "what-is-fuzzy-search.mdx",
-    "what-is-g-sync.mdx",
-    "what-is-gcp-app-engine.mdx",
-    "what-is-gcp-bigtable.mdx",
-    "what-is-gcp-cloud-functions.mdx"
+    "what-is-gcp-cloud-sql.mdx",
+    "what-is-gcp-cloud-storage.mdx",
+    "what-is-gcp-compute-engine.mdx",
+    "what-is-gcp-datastore.mdx",
+    "what-is-gcp-firestore.mdx",
+    "what-is-gcp.mdx",
+    "what-is-gcr.mdx",
+    "what-is-gdpr.mdx",
+    "what-is-generative-model.mdx",
+    "what-is-geolocation.mdx"
   ]
 }
