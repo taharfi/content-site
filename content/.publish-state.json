@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-07-01",
+  "lastPublishedDate": "2026-07-02",
   "publishedFiles": [
-    "what-is-hate-speech.mdx",
-    "what-is-having-clause.mdx",
-    "what-is-hdd-vs-ssd.mdx",
-    "what-is-hdd.mdx",
-    "what-is-hdmi-cable.mdx",
-    "what-is-hdmi-version.mdx",
-    "what-is-hdr.mdx",
-    "what-is-heap.mdx",
-    "what-is-heapsort.mdx",
-    "what-is-heatsink.mdx"
+    "what-is-heic.mdx",
+    "what-is-helm.mdx",
+    "what-is-heroku.mdx",
+    "what-is-hierarchical-clustering.mdx",
+    "what-is-hipaa.mdx",
+    "what-is-hmac.mdx",
+    "what-is-hoisting.mdx",
+    "what-is-host-address.mdx",
+    "what-is-html5.mdx",
+    "what-is-http.mdx"
   ]
 }
