@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-07-02",
+  "lastPublishedDate": "2026-07-03",
   "publishedFiles": [
-    "what-is-heic.mdx",
-    "what-is-helm.mdx",
-    "what-is-heroku.mdx",
-    "what-is-hierarchical-clustering.mdx",
-    "what-is-hipaa.mdx",
-    "what-is-hmac.mdx",
-    "what-is-hoisting.mdx",
-    "what-is-host-address.mdx",
-    "what-is-html5.mdx",
-    "what-is-http.mdx"
+    "what-is-http2.mdx",
+    "what-is-http3.mdx",
+    "what-is-hub.mdx",
+    "what-is-hybrid-app.mdx",
+    "what-is-hybrid-topology.mdx",
+    "what-is-hyperparameter-tuning.mdx",
+    "what-is-hyperparameter.mdx",
+    "what-is-icloud.mdx",
+    "what-is-image-classification.mdx",
+    "what-is-image-registry.mdx"
   ]
 }
