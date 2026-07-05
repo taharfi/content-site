@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-07-04",
+  "lastPublishedDate": "2026-07-05",
   "publishedFiles": [
-    "what-is-image-segmentation.mdx",
-    "what-is-imap.mdx",
-    "what-is-in-app-purchase.mdx",
-    "what-is-in-place-sort.mdx",
-    "what-is-incident-response.mdx",
-    "what-is-index.mdx",
-    "what-is-indexed-db.mdx",
-    "what-is-infinite-scroll.mdx",
-    "what-is-influencer-marketing.mdx",
-    "what-is-influencer.mdx"
+    "what-is-ingress-controller.mdx",
+    "what-is-inheritance.mdx",
+    "what-is-ini.mdx",
+    "what-is-inline-documentation.mdx",
+    "what-is-inner-join.mdx",
+    "what-is-insertion-sort.mdx",
+    "what-is-instagram.mdx",
+    "what-is-integration-test.mdx",
+    "what-is-integrity-confidentiality.mdx",
+    "what-is-intel.mdx"
   ]
 }
