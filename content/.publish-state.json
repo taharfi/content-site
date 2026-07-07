@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-07-06",
+  "lastPublishedDate": "2026-07-07",
   "publishedFiles": [
-    "what-is-interface.mdx",
-    "what-is-intermediate-certificate.mdx",
-    "what-is-internet-protocol.mdx",
-    "what-is-interpretability.mdx",
-    "what-is-intrusion-detection.mdx",
-    "what-is-inventory-management.mdx",
-    "what-is-invoice.mdx",
-    "what-is-invoicing.mdx",
-    "what-is-ionic.mdx",
-    "what-is-ios.mdx"
+    "what-is-iperf.mdx",
+    "what-is-ips-panel.mdx",
+    "what-is-ipv6-address.mdx",
+    "what-is-ipv6-migration.mdx",
+    "what-is-iris-scanner.mdx",
+    "what-is-iso-27001.mdx",
+    "what-is-iso-8859-1.mdx",
+    "what-is-isolation.mdx",
+    "what-is-istio.mdx",
+    "what-is-iteration.mdx"
   ]
 }
