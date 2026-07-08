@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-07-07",
+  "lastPublishedDate": "2026-07-08",
   "publishedFiles": [
-    "what-is-iperf.mdx",
-    "what-is-ips-panel.mdx",
-    "what-is-ipv6-address.mdx",
-    "what-is-ipv6-migration.mdx",
-    "what-is-iris-scanner.mdx",
-    "what-is-iso-27001.mdx",
-    "what-is-iso-8859-1.mdx",
-    "what-is-isolation.mdx",
-    "what-is-istio.mdx",
-    "what-is-iteration.mdx"
+    "what-is-iterator-pattern.mdx",
+    "what-is-java.mdx",
+    "what-is-join.mdx",
+    "what-is-joint-controller.mdx",
+    "what-is-jpeg.mdx",
+    "what-is-json-schema.mdx",
+    "what-is-json.mdx",
+    "what-is-k-fold-cross-validation.mdx",
+    "what-is-k-means.mdx",
+    "what-is-kafka.mdx"
   ]
 }
