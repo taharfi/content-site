@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-07-08",
+  "lastPublishedDate": "2026-07-09",
   "publishedFiles": [
-    "what-is-iterator-pattern.mdx",
-    "what-is-java.mdx",
-    "what-is-join.mdx",
-    "what-is-joint-controller.mdx",
-    "what-is-jpeg.mdx",
-    "what-is-json-schema.mdx",
-    "what-is-json.mdx",
-    "what-is-k-fold-cross-validation.mdx",
-    "what-is-k-means.mdx",
-    "what-is-kafka.mdx"
+    "what-is-kanban-board.mdx",
+    "what-is-kibana.mdx",
+    "what-is-kind.mdx",
+    "what-is-kotlin.mdx",
+    "what-is-kruskal-algorithm.mdx",
+    "what-is-kubernetes-cluster.mdx",
+    "what-is-l1-cache.mdx",
+    "what-is-l2-cache.mdx",
+    "what-is-l3-cache.mdx",
+    "what-is-lag-function.mdx"
   ]
 }
