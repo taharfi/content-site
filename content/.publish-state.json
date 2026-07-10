@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-07-09",
+  "lastPublishedDate": "2026-07-10",
   "publishedFiles": [
-    "what-is-kanban-board.mdx",
-    "what-is-kibana.mdx",
-    "what-is-kind.mdx",
-    "what-is-kotlin.mdx",
-    "what-is-kruskal-algorithm.mdx",
-    "what-is-kubernetes-cluster.mdx",
-    "what-is-l1-cache.mdx",
-    "what-is-l2-cache.mdx",
-    "what-is-l3-cache.mdx",
-    "what-is-lag-function.mdx"
+    "what-is-large-language-model.mdx",
+    "what-is-last-modified-header.mdx",
+    "what-is-last-value.mdx",
+    "what-is-latin1.mdx",
+    "what-is-lawful-basis.mdx",
+    "what-is-lead-function.mdx",
+    "what-is-learning-rate.mdx",
+    "what-is-left-join.mdx",
+    "what-is-legal-obligation.mdx",
+    "what-is-legitimate-interest.mdx"
   ]
 }
