@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-07-14",
+  "lastPublishedDate": "2026-07-15",
   "publishedFiles": [
-    "what-is-magnetometer.mdx",
-    "what-is-maintenance-page.mdx",
-    "what-is-marketplace.mdx",
-    "what-is-marshalling.mdx",
-    "what-is-max-age.mdx",
-    "what-is-md5.mdx",
-    "what-is-mean-squared-error.mdx",
-    "what-is-media-literacy.mdx",
-    "what-is-memory-leak.mdx",
-    "what-is-memory-speed.mdx"
+    "what-is-mention.mdx",
+    "what-is-merchandising.mdx",
+    "what-is-mercurial.mdx",
+    "what-is-merge-sort.mdx",
+    "what-is-merge.mdx",
+    "what-is-mesh-topology.mdx",
+    "what-is-message-queue.mdx",
+    "what-is-messagepack.mdx",
+    "what-is-meta-learning.mdx",
+    "what-is-method.mdx"
   ]
 }
