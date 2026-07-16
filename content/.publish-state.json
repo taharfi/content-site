@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-07-15",
+  "lastPublishedDate": "2026-07-16",
   "publishedFiles": [
-    "what-is-mention.mdx",
-    "what-is-merchandising.mdx",
-    "what-is-mercurial.mdx",
-    "what-is-merge-sort.mdx",
-    "what-is-merge.mdx",
-    "what-is-mesh-topology.mdx",
-    "what-is-message-queue.mdx",
-    "what-is-messagepack.mdx",
-    "what-is-meta-learning.mdx",
-    "what-is-method.mdx"
+    "what-is-metrics-collection.mdx",
+    "what-is-metrics.mdx",
+    "what-is-micro-influencer.mdx",
+    "what-is-micro-usb.mdx",
+    "what-is-mime-type.mdx",
+    "what-is-mini-led.mdx",
+    "what-is-minikube.mdx",
+    "what-is-minimum-spanning-tree.mdx",
+    "what-is-misinformation.mdx",
+    "what-is-mixin.mdx"
   ]
 }
