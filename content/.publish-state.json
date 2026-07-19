@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-07-18",
+  "lastPublishedDate": "2026-07-19",
   "publishedFiles": [
-    "what-is-mp3.mdx",
-    "what-is-mp4.mdx",
-    "what-is-multi-channel-selling.mdx",
-    "what-is-multi-factor-authentication.mdx",
-    "what-is-multicast.mdx",
-    "what-is-mute-user.mdx",
-    "what-is-mvc-architecture.mdx",
-    "what-is-mvc-pattern.mdx",
-    "what-is-mvp-pattern.mdx",
-    "what-is-mvvm-pattern.mdx"
+    "what-is-mx-record.mdx",
+    "what-is-named-entity-recognition.mdx",
+    "what-is-native-advertising.mdx",
+    "what-is-native-app.mdx",
+    "what-is-natural-language-processing.mdx",
+    "what-is-near-field-communication.mdx",
+    "what-is-neo4j.mdx",
+    "what-is-netlify.mdx",
+    "what-is-network-address.mdx",
+    "what-is-network-gateway.mdx"
   ]
 }
