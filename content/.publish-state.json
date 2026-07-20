@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-07-19",
+  "lastPublishedDate": "2026-07-20",
   "publishedFiles": [
-    "what-is-mx-record.mdx",
-    "what-is-named-entity-recognition.mdx",
-    "what-is-native-advertising.mdx",
-    "what-is-native-app.mdx",
-    "what-is-natural-language-processing.mdx",
-    "what-is-near-field-communication.mdx",
-    "what-is-neo4j.mdx",
-    "what-is-netlify.mdx",
-    "what-is-network-address.mdx",
-    "what-is-network-gateway.mdx"
+    "what-is-network-interface-card.mdx",
+    "what-is-network-layer.mdx",
+    "what-is-network-mask.mdx",
+    "what-is-network-monitoring.mdx",
+    "what-is-network-protocol.mdx",
+    "what-is-network-topology.mdx",
+    "what-is-neural-network.mdx",
+    "what-is-newrelic.mdx",
+    "what-is-nfc.mdx",
+    "what-is-nist-cybersecurity-framework.mdx"
   ]
 }
