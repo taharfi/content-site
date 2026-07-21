@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-07-20",
+  "lastPublishedDate": "2026-07-21",
   "publishedFiles": [
-    "what-is-network-interface-card.mdx",
-    "what-is-network-layer.mdx",
-    "what-is-network-mask.mdx",
-    "what-is-network-monitoring.mdx",
-    "what-is-network-protocol.mdx",
-    "what-is-network-topology.mdx",
-    "what-is-neural-network.mdx",
-    "what-is-newrelic.mdx",
-    "what-is-nfc.mdx",
-    "what-is-nist-cybersecurity-framework.mdx"
+    "what-is-nlp.mdx",
+    "what-is-normalization.mdx",
+    "what-is-nosql-database.mdx",
+    "what-is-nosql.mdx",
+    "what-is-note-synchronization.mdx",
+    "what-is-note-taking.mdx",
+    "what-is-notetaking-app.mdx",
+    "what-is-notification-permission.mdx",
+    "what-is-ns-record.mdx",
+    "what-is-number.mdx"
   ]
 }
