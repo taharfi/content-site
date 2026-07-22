@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-07-21",
+  "lastPublishedDate": "2026-07-22",
   "publishedFiles": [
-    "what-is-nlp.mdx",
-    "what-is-normalization.mdx",
-    "what-is-nosql-database.mdx",
-    "what-is-nosql.mdx",
-    "what-is-note-synchronization.mdx",
-    "what-is-note-taking.mdx",
-    "what-is-notetaking-app.mdx",
-    "what-is-notification-permission.mdx",
-    "what-is-ns-record.mdx",
-    "what-is-number.mdx"
+    "what-is-nvme-ssd.mdx",
+    "what-is-object-detection.mdx",
+    "what-is-object.mdx",
+    "what-is-objective-c.mdx",
+    "what-is-observability.mdx",
+    "what-is-observer-pattern.mdx",
+    "what-is-office-suite.mdx",
+    "what-is-offline-storage.mdx",
+    "what-is-olap.mdx",
+    "what-is-oled.mdx"
   ]
 }
