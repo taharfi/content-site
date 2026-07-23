@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-07-22",
+  "lastPublishedDate": "2026-07-23",
   "publishedFiles": [
-    "what-is-nvme-ssd.mdx",
-    "what-is-object-detection.mdx",
-    "what-is-object.mdx",
-    "what-is-objective-c.mdx",
-    "what-is-observability.mdx",
-    "what-is-observer-pattern.mdx",
-    "what-is-office-suite.mdx",
-    "what-is-offline-storage.mdx",
-    "what-is-olap.mdx",
-    "what-is-oled.mdx"
+    "what-is-oltp.mdx",
+    "what-is-onedrive.mdx",
+    "what-is-online-store.mdx",
+    "what-is-open-addressing.mdx",
+    "what-is-opteron.mdx",
+    "what-is-optimization.mdx",
+    "what-is-opus.mdx",
+    "what-is-order-history.mdx",
+    "what-is-osi-model.mdx",
+    "what-is-ospf.mdx"
   ]
 }
