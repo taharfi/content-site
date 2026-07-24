@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-07-23",
+  "lastPublishedDate": "2026-07-24",
   "publishedFiles": [
-    "what-is-oltp.mdx",
-    "what-is-onedrive.mdx",
-    "what-is-online-store.mdx",
-    "what-is-open-addressing.mdx",
-    "what-is-opteron.mdx",
-    "what-is-optimization.mdx",
-    "what-is-opus.mdx",
-    "what-is-order-history.mdx",
-    "what-is-osi-model.mdx",
-    "what-is-ospf.mdx"
+    "what-is-overclocking.mdx",
+    "what-is-overfitting.mdx",
+    "what-is-package-name.mdx",
+    "what-is-packet-sniffer.mdx",
+    "what-is-pagination-vs-infinite-scroll.mdx",
+    "what-is-pagination.mdx",
+    "what-is-parameter.mdx",
+    "what-is-parquet.mdx",
+    "what-is-password-hash.mdx",
+    "what-is-password-manager.mdx"
   ]
 }
