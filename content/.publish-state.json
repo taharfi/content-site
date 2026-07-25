@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-07-24",
+  "lastPublishedDate": "2026-07-25",
   "publishedFiles": [
-    "what-is-overclocking.mdx",
-    "what-is-overfitting.mdx",
-    "what-is-package-name.mdx",
-    "what-is-packet-sniffer.mdx",
-    "what-is-pagination-vs-infinite-scroll.mdx",
-    "what-is-pagination.mdx",
-    "what-is-parameter.mdx",
-    "what-is-parquet.mdx",
-    "what-is-password-hash.mdx",
-    "what-is-password-manager.mdx"
+    "what-is-password-strength.mdx",
+    "what-is-passwordless-authentication.mdx",
+    "what-is-paste-thermal.mdx",
+    "what-is-patch-management.mdx",
+    "what-is-payment-gateway.mdx",
+    "what-is-payment-processor.mdx",
+    "what-is-pbkdf2.mdx",
+    "what-is-pca.mdx",
+    "what-is-pci-dss.mdx",
+    "what-is-pcie-gen3.mdx"
   ]
 }
