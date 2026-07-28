@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-07-27",
+  "lastPublishedDate": "2026-07-28",
   "publishedFiles": [
-    "what-is-persistent-volume.mdx",
-    "what-is-personalization.mdx",
-    "what-is-pgp.mdx",
-    "what-is-phishing-email.mdx",
-    "what-is-phishing-simulation.mdx",
-    "what-is-phonegap.mdx",
-    "what-is-photo-permission.mdx",
-    "what-is-physical-layer.mdx",
-    "what-is-physical-security.mdx",
-    "what-is-pinterest.mdx"
+    "what-is-pixel-tag.mdx",
+    "what-is-png.mdx",
+    "what-is-pod.mdx",
+    "what-is-policy-gradient.mdx",
+    "what-is-polymorphism.mdx",
+    "what-is-pop3.mdx",
+    "what-is-popup.mdx",
+    "what-is-port-scanning.mdx",
+    "what-is-pos-tagging.mdx",
+    "what-is-pose-estimation.mdx"
   ]
 }
