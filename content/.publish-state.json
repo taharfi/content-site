@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-07-28",
+  "lastPublishedDate": "2026-07-29",
   "publishedFiles": [
-    "what-is-pixel-tag.mdx",
-    "what-is-png.mdx",
-    "what-is-pod.mdx",
-    "what-is-policy-gradient.mdx",
-    "what-is-polymorphism.mdx",
-    "what-is-pop3.mdx",
-    "what-is-popup.mdx",
-    "what-is-port-scanning.mdx",
-    "what-is-pos-tagging.mdx",
-    "what-is-pose-estimation.mdx"
+    "what-is-post.mdx",
+    "what-is-power-consumption.mdx",
+    "what-is-precision-metric.mdx",
+    "what-is-presentation-software.mdx",
+    "what-is-presentation.mdx",
+    "what-is-price-comparison.mdx",
+    "what-is-prim-algorithm.mdx",
+    "what-is-primary-key.mdx",
+    "what-is-priority-queue.mdx",
+    "what-is-privacy-by-default.mdx"
   ]
 }
