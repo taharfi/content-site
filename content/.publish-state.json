@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-07-30",
+  "lastPublishedDate": "2026-07-31",
   "publishedFiles": [
-    "what-is-privacy-by-design.mdx",
-    "what-is-privacy-impact-assessment.mdx",
-    "what-is-private-message.mdx",
-    "what-is-product-description.mdx",
-    "what-is-product-image.mdx",
-    "what-is-product-key.mdx",
-    "what-is-product-listing.mdx",
-    "what-is-product-recommendation.mdx",
-    "what-is-product-review.mdx",
-    "what-is-product-seo.mdx"
+    "what-is-profiling.mdx",
+    "what-is-project-management.mdx",
+    "what-is-prometheus.mdx",
+    "what-is-proprietary-software.mdx",
+    "what-is-protobuf.mdx",
+    "what-is-prototype.mdx",
+    "what-is-provisioning-profile.mdx",
+    "what-is-proximity-sensor.mdx",
+    "what-is-proxy-pattern.mdx",
+    "what-is-proxy-server.mdx"
   ]
 }
