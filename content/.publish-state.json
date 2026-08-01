@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-07-31",
+  "lastPublishedDate": "2026-08-01",
   "publishedFiles": [
-    "what-is-profiling.mdx",
-    "what-is-project-management.mdx",
-    "what-is-prometheus.mdx",
-    "what-is-proprietary-software.mdx",
-    "what-is-protobuf.mdx",
-    "what-is-prototype.mdx",
-    "what-is-provisioning-profile.mdx",
-    "what-is-proximity-sensor.mdx",
-    "what-is-proxy-pattern.mdx",
-    "what-is-proxy-server.mdx"
+    "what-is-ptr-record.mdx",
+    "what-is-public-key-cryptography.mdx",
+    "what-is-public-task.mdx",
+    "what-is-pull-request.mdx",
+    "what-is-purpose-limitation.mdx",
+    "what-is-push-notification.mdx",
+    "what-is-q-learning.mdx",
+    "what-is-qled.mdx",
+    "what-is-qr-code.mdx",
+    "what-is-query-optimization.mdx"
   ]
 }
