@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-08-04",
+  "lastPublishedDate": "2026-08-05",
   "publishedFiles": [
-    "what-is-receipt.mdx",
-    "what-is-recommendation-engine.mdx",
-    "what-is-recovery-database.mdx",
-    "what-is-recurrent-neural-network.mdx",
-    "what-is-recursion.mdx",
-    "what-is-red-black-tree.mdx",
-    "what-is-reddit.mdx",
-    "what-is-redis.mdx",
-    "what-is-redux-pattern.mdx",
-    "what-is-reels.mdx"
+    "what-is-refactoring.mdx",
+    "what-is-referrer.mdx",
+    "what-is-refund.mdx",
+    "what-is-regression-test.mdx",
+    "what-is-regression.mdx",
+    "what-is-regularization.mdx",
+    "what-is-reinforcement-learning.mdx",
+    "what-is-relational-database.mdx",
+    "what-is-relu.mdx",
+    "what-is-repeater.mdx"
   ]
 }
