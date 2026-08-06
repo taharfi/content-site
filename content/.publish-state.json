@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-08-05",
+  "lastPublishedDate": "2026-08-06",
   "publishedFiles": [
-    "what-is-refactoring.mdx",
-    "what-is-referrer.mdx",
-    "what-is-refund.mdx",
-    "what-is-regression-test.mdx",
-    "what-is-regression.mdx",
-    "what-is-regularization.mdx",
-    "what-is-reinforcement-learning.mdx",
-    "what-is-relational-database.mdx",
-    "what-is-relu.mdx",
-    "what-is-repeater.mdx"
+    "what-is-replication.mdx",
+    "what-is-reply.mdx",
+    "what-is-report-user.mdx",
+    "what-is-reporting.mdx",
+    "what-is-rest-api.mdx",
+    "what-is-retrospective.mdx",
+    "what-is-return-value.mdx",
+    "what-is-rewards-points.mdx",
+    "what-is-rgb-lighting.mdx",
+    "what-is-rich-snippets.mdx"
   ]
 }
