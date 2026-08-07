@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-08-06",
+  "lastPublishedDate": "2026-08-07",
   "publishedFiles": [
-    "what-is-replication.mdx",
-    "what-is-reply.mdx",
-    "what-is-report-user.mdx",
-    "what-is-reporting.mdx",
-    "what-is-rest-api.mdx",
-    "what-is-retrospective.mdx",
-    "what-is-return-value.mdx",
-    "what-is-rewards-points.mdx",
-    "what-is-rgb-lighting.mdx",
-    "what-is-rich-snippets.mdx"
+    "what-is-right-join.mdx",
+    "what-is-right-to-be-forgotten.mdx",
+    "what-is-ring-topology.mdx",
+    "what-is-rj45-connector.mdx",
+    "what-is-robustness.mdx",
+    "what-is-roc-auc.mdx",
+    "what-is-role-based-access-control.mdx",
+    "what-is-root-certificate.mdx",
+    "what-is-rootkit.mdx",
+    "what-is-router.mdx"
   ]
 }
