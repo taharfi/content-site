@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-08-07",
+  "lastPublishedDate": "2026-08-08",
   "publishedFiles": [
-    "what-is-right-join.mdx",
-    "what-is-right-to-be-forgotten.mdx",
-    "what-is-ring-topology.mdx",
-    "what-is-rj45-connector.mdx",
-    "what-is-robustness.mdx",
-    "what-is-roc-auc.mdx",
-    "what-is-role-based-access-control.mdx",
-    "what-is-root-certificate.mdx",
-    "what-is-rootkit.mdx",
-    "what-is-router.mdx"
+    "what-is-routing.mdx",
+    "what-is-row-number.mdx",
+    "what-is-row.mdx",
+    "what-is-rpm.mdx",
+    "what-is-rsa.mdx",
+    "what-is-rsync.mdx",
+    "what-is-ryzen.mdx",
+    "what-is-s-mime.mdx",
+    "what-is-salt.mdx",
+    "what-is-same-origin-policy.mdx"
   ]
 }
