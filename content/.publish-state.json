@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-08-08",
+  "lastPublishedDate": "2026-08-09",
   "publishedFiles": [
-    "what-is-routing.mdx",
-    "what-is-row-number.mdx",
-    "what-is-row.mdx",
-    "what-is-rpm.mdx",
-    "what-is-rsa.mdx",
-    "what-is-rsync.mdx",
-    "what-is-ryzen.mdx",
-    "what-is-s-mime.mdx",
-    "what-is-salt.mdx",
-    "what-is-same-origin-policy.mdx"
+    "what-is-san-certificate.mdx",
+    "what-is-sas.mdx",
+    "what-is-sata-ssd.mdx",
+    "what-is-saved-items.mdx",
+    "what-is-schema-markup.mdx",
+    "what-is-scope.mdx",
+    "what-is-screen-sharing.mdx",
+    "what-is-script-tag.mdx",
+    "what-is-scrum.mdx",
+    "what-is-scrypt.mdx"
   ]
 }
