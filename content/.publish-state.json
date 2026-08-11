@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-08-10",
+  "lastPublishedDate": "2026-08-11",
   "publishedFiles": [
-    "what-is-search-functionality.mdx",
-    "what-is-searching-algorithm.mdx",
-    "what-is-second-normal-form.mdx",
-    "what-is-secret.mdx",
-    "what-is-security-compliance.mdx",
-    "what-is-security-guard.mdx",
-    "what-is-security-test.mdx",
-    "what-is-security-training.mdx",
-    "what-is-selection-sort.mdx",
-    "what-is-self-signed-certificate.mdx"
+    "what-is-semi-supervised-learning.mdx",
+    "what-is-sentiment-analysis.mdx",
+    "what-is-seo-for-ecommerce.mdx",
+    "what-is-separate-chaining.mdx",
+    "what-is-serialization.mdx",
+    "what-is-service-mesh.mdx",
+    "what-is-service-worker.mdx",
+    "what-is-service.mdx",
+    "what-is-session-cookie.mdx",
+    "what-is-session-storage.mdx"
   ]
 }
