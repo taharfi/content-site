@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-08-11",
+  "lastPublishedDate": "2026-08-12",
   "publishedFiles": [
-    "what-is-semi-supervised-learning.mdx",
-    "what-is-sentiment-analysis.mdx",
-    "what-is-seo-for-ecommerce.mdx",
-    "what-is-separate-chaining.mdx",
-    "what-is-serialization.mdx",
-    "what-is-service-mesh.mdx",
-    "what-is-service-worker.mdx",
-    "what-is-service.mdx",
-    "what-is-session-cookie.mdx",
-    "what-is-session-storage.mdx"
+    "what-is-sftp.mdx",
+    "what-is-sha1.mdx",
+    "what-is-sha256.mdx",
+    "what-is-shap.mdx",
+    "what-is-sharding.mdx",
+    "what-is-share.mdx",
+    "what-is-shareware.mdx",
+    "what-is-shipping.mdx",
+    "what-is-shopping-cart.mdx",
+    "what-is-sigmoid.mdx"
   ]
 }
