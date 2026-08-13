@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-08-12",
+  "lastPublishedDate": "2026-08-13",
   "publishedFiles": [
-    "what-is-sftp.mdx",
-    "what-is-sha1.mdx",
-    "what-is-sha256.mdx",
-    "what-is-shap.mdx",
-    "what-is-sharding.mdx",
-    "what-is-share.mdx",
-    "what-is-shareware.mdx",
-    "what-is-shipping.mdx",
-    "what-is-shopping-cart.mdx",
-    "what-is-sigmoid.mdx"
+    "what-is-singleton-pattern.mdx",
+    "what-is-sip.mdx",
+    "what-is-skeleton-screen.mdx",
+    "what-is-smart-status.mdx",
+    "what-is-smoke-test.mdx",
+    "what-is-smtp.mdx",
+    "what-is-snapchat.mdx",
+    "what-is-snapdragon.mdx",
+    "what-is-snappy.mdx",
+    "what-is-soa-record.mdx"
   ]
 }
