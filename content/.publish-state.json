@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-08-13",
+  "lastPublishedDate": "2026-08-14",
   "publishedFiles": [
-    "what-is-singleton-pattern.mdx",
-    "what-is-sip.mdx",
-    "what-is-skeleton-screen.mdx",
-    "what-is-smart-status.mdx",
-    "what-is-smoke-test.mdx",
-    "what-is-smtp.mdx",
-    "what-is-snapchat.mdx",
-    "what-is-snapdragon.mdx",
-    "what-is-snappy.mdx",
-    "what-is-soa-record.mdx"
+    "what-is-social-media.mdx",
+    "what-is-social-network.mdx",
+    "what-is-social-platform.mdx",
+    "what-is-softmax.mdx",
+    "what-is-sort-options.mdx",
+    "what-is-sorting-algorithm.mdx",
+    "what-is-sorting.mdx",
+    "what-is-sox.mdx",
+    "what-is-space-complexity.mdx",
+    "what-is-spam-filter.mdx"
   ]
 }
