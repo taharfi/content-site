@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-08-14",
+  "lastPublishedDate": "2026-08-15",
   "publishedFiles": [
-    "what-is-social-media.mdx",
-    "what-is-social-network.mdx",
-    "what-is-social-platform.mdx",
-    "what-is-softmax.mdx",
-    "what-is-sort-options.mdx",
-    "what-is-sorting-algorithm.mdx",
-    "what-is-sorting.mdx",
-    "what-is-sox.mdx",
-    "what-is-space-complexity.mdx",
-    "what-is-spam-filter.mdx"
+    "what-is-spf.mdx",
+    "what-is-splunk.mdx",
+    "what-is-sponsored-content.mdx",
+    "what-is-spreadsheet.mdx",
+    "what-is-sprint.mdx",
+    "what-is-sql.mdx",
+    "what-is-srv-record.mdx",
+    "what-is-ssd.mdx",
+    "what-is-ssl.mdx",
+    "what-is-stability-sorting.mdx"
   ]
 }
