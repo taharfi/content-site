@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-08-15",
+  "lastPublishedDate": "2026-08-16",
   "publishedFiles": [
-    "what-is-spf.mdx",
-    "what-is-splunk.mdx",
-    "what-is-sponsored-content.mdx",
-    "what-is-spreadsheet.mdx",
-    "what-is-sprint.mdx",
-    "what-is-sql.mdx",
-    "what-is-srv-record.mdx",
-    "what-is-ssd.mdx",
-    "what-is-ssl.mdx",
-    "what-is-stability-sorting.mdx"
+    "what-is-stack.mdx",
+    "what-is-standard-contractual-clauses.mdx",
+    "what-is-standup-meeting.mdx",
+    "what-is-star-topology.mdx",
+    "what-is-state-pattern.mdx",
+    "what-is-statefulset.mdx",
+    "what-is-static-analysis.mdx",
+    "what-is-static-method.mdx",
+    "what-is-status-code.mdx",
+    "what-is-stemming.mdx"
   ]
 }
