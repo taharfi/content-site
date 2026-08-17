@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-08-16",
+  "lastPublishedDate": "2026-08-17",
   "publishedFiles": [
-    "what-is-stack.mdx",
-    "what-is-standard-contractual-clauses.mdx",
-    "what-is-standup-meeting.mdx",
-    "what-is-star-topology.mdx",
-    "what-is-state-pattern.mdx",
-    "what-is-statefulset.mdx",
-    "what-is-static-analysis.mdx",
-    "what-is-static-method.mdx",
-    "what-is-status-code.mdx",
-    "what-is-stemming.mdx"
+    "what-is-stochastic-gradient-descent.mdx",
+    "what-is-stock-keeping-unit.mdx",
+    "what-is-storage-limitation.mdx",
+    "what-is-stored-procedure.mdx",
+    "what-is-stories.mdx",
+    "what-is-strategy-pattern.mdx",
+    "what-is-stream-processing.mdx",
+    "what-is-streaming.mdx",
+    "what-is-stress-test.mdx",
+    "what-is-string.mdx"
   ]
 }
