@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-08-17",
+  "lastPublishedDate": "2026-08-18",
   "publishedFiles": [
-    "what-is-stochastic-gradient-descent.mdx",
-    "what-is-stock-keeping-unit.mdx",
-    "what-is-storage-limitation.mdx",
-    "what-is-stored-procedure.mdx",
-    "what-is-stories.mdx",
-    "what-is-strategy-pattern.mdx",
-    "what-is-stream-processing.mdx",
-    "what-is-streaming.mdx",
-    "what-is-stress-test.mdx",
-    "what-is-string.mdx"
+    "what-is-strongly-connected-components.mdx",
+    "what-is-subdomain.mdx",
+    "what-is-subnetting.mdx",
+    "what-is-subquery.mdx",
+    "what-is-supercookie.mdx",
+    "what-is-supernetwork.mdx",
+    "what-is-supervised-learning.mdx",
+    "what-is-surveillance-camera.mdx",
+    "what-is-svg.mdx",
+    "what-is-svn.mdx"
   ]
 }
