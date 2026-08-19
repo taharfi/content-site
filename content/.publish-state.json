@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-08-18",
+  "lastPublishedDate": "2026-08-19",
   "publishedFiles": [
-    "what-is-strongly-connected-components.mdx",
-    "what-is-subdomain.mdx",
-    "what-is-subnetting.mdx",
-    "what-is-subquery.mdx",
-    "what-is-supercookie.mdx",
-    "what-is-supernetwork.mdx",
-    "what-is-supervised-learning.mdx",
-    "what-is-surveillance-camera.mdx",
-    "what-is-svg.mdx",
-    "what-is-svn.mdx"
+    "what-is-swift.mdx",
+    "what-is-switch.mdx",
+    "what-is-symmetric-encryption.mdx",
+    "what-is-sync-conflict.mdx",
+    "what-is-table.mdx",
+    "what-is-tanh.mdx",
+    "what-is-task-management.mdx",
+    "what-is-tdp.mdx",
+    "what-is-technical-debt.mdx",
+    "what-is-template-method.mdx"
   ]
 }
