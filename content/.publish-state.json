@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-08-19",
+  "lastPublishedDate": "2026-08-20",
   "publishedFiles": [
-    "what-is-swift.mdx",
-    "what-is-switch.mdx",
-    "what-is-symmetric-encryption.mdx",
-    "what-is-sync-conflict.mdx",
-    "what-is-table.mdx",
-    "what-is-tanh.mdx",
-    "what-is-task-management.mdx",
-    "what-is-tdp.mdx",
-    "what-is-technical-debt.mdx",
-    "what-is-template-method.mdx"
+    "what-is-test-automation.mdx",
+    "what-is-test-data.mdx",
+    "what-is-thermal-pad.mdx",
+    "what-is-thermometer.mdx",
+    "what-is-third-normal-form.mdx",
+    "what-is-third-party-access.mdx",
+    "what-is-this-keyword.mdx",
+    "what-is-thread-count.mdx",
+    "what-is-thread.mdx",
+    "what-is-threadripper.mdx"
   ]
 }
