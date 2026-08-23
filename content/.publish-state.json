@@ -1,15 +1,15 @@
 {
-  "lastPublishedDate": "2026-08-22",
+  "lastPublishedDate": "2026-08-23",
   "publishedFiles": [
-    "what-is-tls.mdx",
-    "what-is-tn-panel.mdx",
-    "what-is-toast-notification.mdx",
-    "what-is-todo-list.mdx",
-    "what-is-tokenization.mdx",
-    "what-is-toml.mdx",
-    "what-is-tooltip.mdx",
-    "what-is-topological-sort.mdx",
-    "what-is-tor-browser.mdx",
-    "what-is-toxicity.mdx"
+    "what-is-tracert.mdx",
+    "what-is-tracking-number.mdx",
+    "what-is-training-data.mdx",
+    "what-is-transaction.mdx",
+    "what-is-transfer-learning.mdx",
+    "what-is-transformer.mdx",
+    "what-is-transparent-processing.mdx",
+    "what-is-transport-layer.mdx",
+    "what-is-tree.mdx",
+    "what-is-trending.mdx"
   ]
 }
