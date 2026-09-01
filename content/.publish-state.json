@@ -1,15 +1,9 @@
 {
-  "lastPublishedDate": "2026-08-31",
+  "lastPublishedDate": "2026-09-01",
   "publishedFiles": [
-    "what-is-word-processor.mdx",
-    "what-is-word2vec.mdx",
-    "what-is-x-content-type-options.mdx",
-    "what-is-x-frame-options.mdx",
-    "what-is-xamarin.mdx",
-    "what-is-xeon.mdx",
-    "what-is-xml-schema.mdx",
-    "what-is-xml.mdx",
-    "what-is-xmp.mdx",
-    "what-is-xz.mdx"
+    "what-is-yaml.mdx",
+    "what-is-youtube.mdx",
+    "what-is-zero-shot-learning.mdx",
+    "what-is-zstandard.mdx"
   ]
 }
